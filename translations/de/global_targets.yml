@@ -1,3 +1,4 @@
+
 1-1-title: Maßnahme - Sozialhilfeportal leben lassen!
 1-2-title: Maßnahme - Gemeinschaftswerkstätten
 1-3-title: SDG-Indikator - Gesamtindex Soziale Ungleichheit (Status/Dynamik-Index des Monitoring Soziale Stadtentwicklung Berlin)
@@ -12,7 +13,7 @@
 4-3-title: Maßnahme - Globales Lernen in der Volkshochschule (VHS)
 4-4-title: SDG-Indikator - Nachhaltige Schulen
 4-5-title: SDG-Indikator - Bildungsangebote mit ökologischem Nachhaltigkeitsbezug
-4-6-title: SDG-Indikator - BNE/Globales Lernen in Schulen
+4-6-title: SDG-Indikator - Bildung für nachhaltige Entwicklung (BNE)  / Globales Lernen in Schulen
 5-1-title: Maßnahme - Boy’s + Girl’s Day als Projekttag an Schulen durchführen
 5-2-title: Maßnahme - Sensibilisierungsschulungen zum gendersensiblen Sprachgebrauch
 5-3-title: Maßnahme - Austauschrunden für Mädchen
@@ -24,15 +25,12 @@
 6-4-title: SDG-Indikator - Wasserqualität in Badegewässern
 7-1-title: Maßnahme - Nachhaltige Energiekonzepte in der Bauleitplanung festsetzen
 7-2-title: Maßnahme - Energieerzeugung auf bezirkseigenen Dächern
-7-3-title: SDG-Indikator - Solaranlagen
-7-4-title: SDG-Indikator - Produktion erneuerbarer Energie im Stadtgebiet
-8-1-title: Maßnahme - Gemeinwohlzertifizierung für ein Amt des Bezirksamtes Treptow-Köpenick
-8-2-title: Maßnahme - Integration von Gemeinwohl- und Sozialunternehmertum in die bezirkliche Gründungsberatung
-8-3-title: Maßnahme - Mentoringprogramm für Bewerbende mit Migrationshintergrund vor Bewerbung im öffentlichen Dienst
-8-4-title: Maßnahme - Mentoringprogramm für Bewerbende mit Migrationshintergrund und nach Einstellung im öffentlichen Dienst
-8-5-title: Maßnahme - WildCard für Auswahlverfahren
-8-6-title: SDG-Indikator - Bruttostundenverdienste und Verdienstunterschied zwischen Männern und Frauen
-8-7-title: SDG-Indikator - Beschäftigte Mindestlohn
+7-3-title: SDG-Indikator - Produktion erneuerbarer Energie im Stadtgebiet
+8-1-title: Maßnahme - Integration von Gemeinwohl- und Sozialunternehmertum in die bezirkliche Gründungsberatung
+8-2-title: Maßnahme - Mentoringprogramm für Bewerbende mit Migrationshintergrund vor Bewerbung im öffentlichen Dienst
+8-3-title: Maßnahme - Mentoringprogramm für Bewerbende mit Migrationshintergrund und nach Einstellung im öffentlichen Dienst
+8-4-title: SDG-Indikator - Bruttostundenverdienste und Verdienstunterschied zwischen Männern und Frauen
+8-5-title: SDG-Indikator - Beschäftigte Mindestlohn
 9-1-title: Maßnahme - Innovatives Verkehrsinfrastrukturkonzept für den Bezirk nach Vorbild der Adlershofer Mobilitätsstudie
 9-2-title: Maßnahme - Analyse zur „digitalen Infrastruktur“
 9-3-title: SDG-Indikator - Breitbandversorgung 
@@ -41,8 +39,8 @@
 10-3-title: Maßnahme - Einführung der Gemeinwohlökonomie in Treptow- Köpenick
 10-4-title: SDG-Indikator - Gini-Koeffizient zur Einkommensverteilung
 10-5-title: SDG-Indikator - Treffpunkte für Bürgerinnen und Bürger
-10-6-title: SDG-Indikator - Anteil von Personen mit Migrationshintergrund in Leitungspositionen der Kommunalverwaltung und der kommunalen Unternehmen
-10-7-title: SDG-Indikator - Anteil der kommunalen Mandate, die von Personen mit Migrationshintergrund wahrgenommen werden
+10-6-title: SDG-Indikator - Anteil von Personen mit Einwanderungsgeschichte in Leitungspositionen der Kommunalverwaltung und der kommunalen Unternehmen
+10-7-title: SDG-Indikator - Anteil der kommunalen Mandate, die von Personen mit Einwanderungsgeschichte wahrgenommen werden
 11-1-title: Maßnahme - Kostenloser Lastenradverleih in ganz Treptow- Köpenick
 11-2-title: Maßnahme - Vorantreibung der Ernährungswende regional
 11-3-title: Maßnahme - Parks, Wälder, Wiesen etc. pflegen und mitbewirtschaften
@@ -50,31 +48,27 @@
 11-5-title: SDG-Indikator - Naherholungsflächen
 12-1-title: Maßnahme - Regelmäßige Fortbildungen für Beschaffer*innen in öffentlichen Einrichtungen
 12-2-title: Maßnahme - Ökofaire Beschaffung in Kirchengemeinden
-12-3-title: Maßnahme - Produktion / Gemeinwohlökonomie
-12-4-title: SDG-Indikator - Fairtrade-Town
-12-5-title: SDG-Indikator - Fairtrade-Schools
+12-3-title: SDG-Indikator - Fairtrade-Town
+12-4-title: SDG-Indikator - Fairtrade-Schools
 13-1-title: Maßnahme - Kommunales Klimaschutzkonzept mit Klimaschutzmanager
 13-2-title: Maßnahme - Förderung des Radverkehrs im Bezirk
-13-3-title: SDG-Indikator - CO2-Ausstoß
+13-3-title: CO2-Emissionen aus dem Primärenergieverbrauch (Quellenbilanz) in Berlin 1990 bis 2017 nach Emittentensektoren         
+13-4-title: CO2-Emissionen aus dem Endenergieverbrauch (Verursacherbilanz) in Berlin 1990 bis 2017 nach Emittentensektoren
 14-1-title: Maßnahme - Fischbesatzprogramme erhalten und fördern
 14-2-title: Maßnahme - Ranger-Projekt zur Aufklärungsarbeit zum Gewässerschutz
 14-3-title: Maßnahme - Erhalt der restlichen natürlichen Uferstrukturen
-14-4-title: SDG-Indikator - Biodiversität (Fische)
 15-1-title: Maßnahme - Klimaanpassungskonzept für den Bezirk
 15-2-title: Maßnahme - Tourismuskonzept (Müggelsee) Treptow-Köpenick um nachhaltige Aspekte erweitern
 15-3-title: Maßnahme - Mehr Biodiversität in der Stadt
 15-4-title: SDG-Indikator - Naturschutzflächen
 15-5-title: SDG-Indikator - Biodiversität
-16-1-title: Maßnahme - Ökofaire Beschaffung / Fairtrade in der kommunalen Ökumene etablieren
-16-2-title: Maßnahme - Verbesserung der Partizipation zur Umsetzung der Sustainable Development Goals
-16-3-title: Maßnahme - Den interreligiösen Dialog aufbauen durch Veranstaltungen wie Ausstellungen, Film- u. Kochabende, Sprachcafes, interkulturelle Gärten, Repaircafes,…
-16-4-title: SDG-Indikator - Anzahl rassistisch, antisemitisch, homophob, und rechtsextrem geprägter Vorfälle
-16-5-title: SDG-Indikator - Informelle Bürgerbeteiligung
+16-1-title: Maßnahme - Verbesserung der Partizipation zur Umsetzung der Sustainable Development Goals
+16-2-title: Maßnahme - Den interreligiösen Dialog aufbauen durch Veranstaltungen wie Ausstellungen, Film- u. Kochabende, Sprachcafes, interkulturelle Gärten, Repaircafes,…
+16-3-title: SDG-Indikator - Anzahl rassistisch, antisemitisch, homophob, und rechtsextrem geprägter Vorfälle
+16-4-title: SDG-Indikator - Informelle Bürgerbeteiligung
 17-1-title: Maßnahme - Städtepartnerschaften bekannter machen
-17-2-title: Maßnahme - Treptower Mischung Fairer Kaffee aus Cajamarca als eigene Mischung anbieten (Verkauf / Cafe)
-17-3-title: SDG-Indikator - Partnerschaften mit Ländern des globalen Südens - Anzahl
-17-4-title: SDG-Indikator - Partnerschaften mit Ländern des globalen Südens - Begegnungen
-17-5-title: SDG-Indikator - Partnerschaften mit Ländern des globalen Südens - Projekte
-17-6-title: SDG-Indikator - Entwicklungspolitisch engagierte Personen in Initiativen, Gruppen und Vereinen
-17-7-title: SDG-Indikator - Umsatz des Weltladens/der Weltläden 
-17-8-title: SDG-Indikator - Anteil öffentlicher Entwicklungsausgaben am Bruttonationaleinkommen (Official Development Assistance, ODA)
+17-2-title: Maßnahme - Treptower Mischung - Fairer Kaffee aus Cajamarca als eigene Mischung anbieten (Verkauf / Cafe)
+17-3-title: SDG-Indikator - Partnerschaften mit Ländern des globalen Südens
+17-4-title: SDG-Indikator - Entwicklungspolitisch engagierte Initiativen, Gruppen und Vereine
+17-5-title: SDG-Indikator - Umsatz der Weltläden 
+17-6-title: SDG-Indikator - Anteil öffentlicher Entwicklungsausgaben am Bruttonationaleinkommen (Official Development Assistance, ODA)
