@@ -3,20 +3,20 @@
 1-3-1: Anzahl der Planungsräume mit niedrigen Status, sehr niedrigem Status oder negativer Dynamik 
 2-1-1: Öffentlich zugängliche Obstbäume und Beete
 2-2-1: Anzahl der fair gehandelten Produktgruppen
-2-3-1: KG gerettete Lebensmittel (Foodsharing)
+2-3-1: Kilogramm gerettete Lebensmittel (Foodsharing)
 3-1-1: Stadtradeln - Anzahl der Personen die teilnehmen
 3-1-2: Stadtradeln - Mit Fahrrad gefahrene Kilometer
-3-1-3: Stadtradeln - kg CO2 eingespart
+3-1-3: Stadtradeln - Kilogramm CO2 eingespart
 3-2-1: Relative Lärmbelastung in Treptow-Köpenick
 3-3-1: Relative Luftbelastung in Treptow-Köpenick
 4-1-1: Anzahl der Schulen die pro Jahr an Lernkonferenz teilnehmen
 4-2-1: Anzahl angebotener Fortbildungen zu 'Bildung für nachhaltige Entwicklung' (BNE) für das pädagogische Personal an Schulen in Treptow-Köpenick
-4-3-1: Anzahl der Volkshochschul (VHS) Kurse zum Themenbereich Globales lernen, 'Bildung für nachhaltige Entwicklung' (BNE), SDGs
+4-3-1: Anzahl der Volkshochschul (VHS) Kurse zum Themenbereich Globales lernen, 'Bildung für nachhaltige Entwicklung' (BNE) und SDGs
 4-4-1: Anzahl der Schulen in Treptow-Köpenick mit der Auszeichnung "Faire Schule"
 4-5-1: Projektteilnehmer des Projektes "Umweltschule in Europa - Internationale Nachhaltigkeitsschule"
-4-6-1:  Monitoring der formalen Verankerung von Bildung für nachhaltige Entwicklung (BNE) - Anzahl an Fundstellen zum Thema BNE in Lehr- und Bildungsplänen
+4-6-1: Monitoring der formalen Verankerung von Bildung für nachhaltige Entwicklung (BNE) - Anzahl an Fundstellen zum Thema BNE in Lehr- und Bildungsplänen
 5-1-1: Anzahl der Schulen die am Projekttag teilnehmen
-5-2-1: 5-2-1:  Anzahl der angebotenen Schulungen  des Bezirksamts zum gendersensiblen Sprachgebrauch
+5-2-1: Anzahl der angebotenen Schulungen des Bezirksamts zum gendersensiblen Sprachgebrauch
 5-3-1: Anzahl der Projekte, Anlaufpunkte, Beratungsangebote für Mädchen in Treptow-Köpenick
 5-4-1: Frauenanteil in den Leitungspositionen des höheren Dienstes
 5-5-1: Frauenanteil in der Bezirksverordnetenversammlung (BVV) Treptow-Köpenicks
@@ -52,13 +52,13 @@
 10-6-1: Anteil der Personen mit Einwanderungsgeschichte in der Bezirksverordnetenversammlung (BVV) Treptow-Köpenicks
 11-1-1: Anzahl der Lastenräder des Bezirks 
 11-1-2: Anzahl der Ausleihen von Lastenrädern
-11-2-1: Anzahl der SoLaWi-Abholstellen 
+11-2-1: Anzahl der Abholstellen für Produkte Solidarischer Landwirtschaft (SoLaWi) 
 11-2-2: Anzahl der Bienenvölker im Bezirk 
 11-3-1: Anzahl Baumscheibenpatinnen und -paten
-11-3-2: Finanzierungen aus Kiezkassen für Projekte
+11-3-2: Finanzierungen für Projekte aus Kiezkassen 
 11-4-1: Häufigkeit der auf Wegen genutzten Verkehrsmittel in Treptow-Köpenick
-11-5-1: Sport-, Freizeit- und Erholungsfläche in Treptow-Köpenick in ha
-11-5-2: Versorgung mit öffentlichen Grünflächen insgesamt (qm je Einwohner)
+11-5-1: Sport-, Freizeit- und Erholungsfläche in Treptow-Köpenick 
+11-5-2: Versorgung mit öffentlichen Grünflächen insgesamt
 12-1-1: Anzahl der Fortbildungen zu fairer Beschaffung pro Jahr
 12-2-1: Anzahl fairer Produktgruppen
 12-2-2: Anzahl der Kirchengemeinden mit Siegel "Faire Gemeinde" im Bezirk an Gesamtzahl Kirchengemeinden
@@ -87,9 +87,9 @@
 16-1-1: Anzahl der Veranstaltungen zum Thema SDGs des Bezirksamts Treptow-Köpenick pro Jahr
 16-2-1: Anzahl der interreligiösen Veranstaltungen pro Jahr
 16-3-1: Anzahl der rassistisch, antisemitisch, homophob und rechtsextrem geprägter Vorfälle pro Jahr in Treptow-Köpenick
-16-4-1: Auflistung der Strukturen der Bürgerbeteiligung und Akteursvernetzung in den Bezirksregionenprofilen
+16-4-1: Anzahl der Strukturen der Bürgerbeteiligung und Akteursvernetzung in den Bezirksregionenprofilen
 17-1-1: Anzahl der Veranstaltungen zum Thema Städtepartnerschaften des Bezirksamts Treptow-Köpenick pro Jahr 
-17-2-1: Menge verkaufter Packungen Kaffee 'Treptow-Köpenicker Bohne' (Anzahl Packungen pro Jahr)
+17-2-1: Menge verkaufter Packungen Fair Trade Kaffee 'Treptow-Köpenicker Bohne' pro Jahr
 17-3-1: Städtepartnerschaften
 17-3-2: Gemeindeprojekte und -partnerschaften
 17-3-3: Schulpartnerschaften
