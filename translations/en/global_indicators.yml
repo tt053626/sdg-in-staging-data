@@ -1,20 +1,100 @@
-1-1-1-title: Number of people using the social welfare portal
-1-2-1-title: Number of community workshops and repair cafes
-2-1-1-title: Publicly accessible fruit trees and kitchen gardens
-2-2-1-title: Number of Fair Trade product groups
-3-1-1-title: City cycling - number of people participating
-3-1-2-title: City cycling - Kilometers ridden by bicycle
-3-1-3-title: City cycling - kg CO2 saved
-4-1-1-title: Number of schools participating in learning conference per year
-4-2-1-title: Number of training courses offered on 'Education for Sustainable Development' (ESD) for schools in Treptow-Köpenick 
-4-2-2-title: Monitoring of the formal integration of Education for Sustainable Development (ESD) - number of references to ESD in curricula and educational plans
-4-3-1-title: Number of adult education center (VHS) courses on global learning, education for sustainable development (ESD), SDGs
-5-1-1-title: Number of schools participating in the project day
-5-2-1-title: Number of trainings offered by the district office
-5-3-1-title: Number of projects, contact points, counseling offers for girls in Treptow-Köpenick
-6-1-1-title: To be defined
-6-2-1-title: Number of members of the network
-6-2-2-title: Number of educational offers of the network
-7-1-1-title: Number of solar installations (solar thermal, photovoltaic) in the district
-7-2-1-title: Number of solar installations (solar thermal, photovoltaic) on district-owned roofs
-7-2-2-title: Heat and electricity generation on district roofs (Wh/a) (installed capacity)
+1-1-1: Number of people using the social assistance portal
+1-2-1: To be defined
+1-3-1: Number of planning areas with low status, very low status, or negative dynamics 
+2-1-1: Publicly accessible fruit trees and kitchen gardens
+2-2-1: Number of fair trade product groups
+2-3-1: Kilograms of food rescued (foodsharing)
+3-1-1: City cycling - Number of people participating
+3-1-2: City cycling - Kilometers ridden by bicycle
+3-1-3: City cycling – Kilograms of CO2 saved
+3-2-1: Relative noise pollution in Treptow-Köpenick
+3-3-1: Relative air pollution in Treptow-Köpenick
+4-1-1: Number of schools participating in learning conferences per year
+4-2-1: Number of training courses offered on 'Education for Sustainable Development' (ESD) for educational staff at schools in Treptow-Köpenick
+4-3-1: Number of adult education center (VHS) courses on global learning, education for sustainable development (ESD) and SDGs
+4-4-1: Number of schools in Treptow-Köpenick with the "Fair School" award
+4-5-1: Project participants of the project "Environmental School in Europe - International Sustainability School“
+4-6-1: Monitoring of the formal anchoring of education for sustainable development (ESD) - number of references to the topic of ESD in curricula and educational plans
+5-1-1: Number of schools participating in the project day
+5-2-1: Number of trainings offered by the district office on gender-sensitive language use
+5-3-1: Number of projects, contact points, counseling services for girls in Treptow-Köpenick
+5-4-1: Proportion of women in management positions in the public sector
+5-5-1: Proportion of women in the Treptow-Köpenick district assembly (BVV)
+6-1-1: Still to be defined
+6-2-1: Number of members of the network/coordination office for environmental education and education for sustainable development (ESD)
+6-2-2: Number of educational offerings of the network/coordination office for environmental education and education for sustainable development (ESD)
+6-3-1: To be defined
+6-4-1: Number of water bodies suitable for bathing
+7-1-1: To be defined
+7-2-1: Number of solar systems (solar thermal, photovoltaic) on district-owned roofs
+7-2-2: Heat and electricity generation on district roofs (Wh/a) (installed capacity)
+7-3-1: Photovoltaics - Total installations in the district 
+7-3-2: Photovoltaics - Electricity supply in the district
+7-3-3: Solar thermal energy - Total installations in the district
+7-3-4: Total biomass plants (electricity) in the district
+7-3-5: Total biomass plants (heat) in the district
+8-1-1: Number of companies carrying out a Common Good Balance in Treptow-Köpenick
+8-2-1: Number of participants in the mentoring program
+8-2-2: Proportion of applicants with immigration history
+8-3-1: Proportion of employees with immigration history
+8-3-2: Proportion of employees with immigration history in management positions in the local administration
+8-4-1: Gross hourly earnings and earnings gaps between women and men
+8-5-1: Kaitz index for Berlin (relation between minimum wage and average gross monthly earnings for full-time employment)
+9-1-1: Number of charging stations for e-mobility
+9-1-2: Implementation of the bike path concept Treptow-Köpenick 2010 (in %) 
+9-2-1: Proportion/number of public administrations with free wifi access
+9-3-1: Broadband availability Mbit/s in %.
+10-1-1: Proportion of multilingual information materials
+10-2-1: Number of training courses offered
+10-3-1: Number of companies conducting a Common Good Balance
+10-4-1: Gini coefficient of equivalent income in Treptow-Köpenick
+10-5-1: Still to be defined
+10-6-1: Proportion of people with an immigration history in the district assembly (BVV) of Treptow-Köpenick
+11-1-1: Number of cargo bikes in the district 
+11-1-2: Number of cargo bike rentals
+11-2-1: Number of pick-up points for Solidarity Farming products (SoLaWi) 
+11-2-2: Number of bee colonies in the district 
+11-3-1: Number of tree patrons
+11-3-2: Financing of projects from neighborhood funds
+11-4-1: Frequency of means of transportation used on routes in Treptow-Köpenick
+11-5-1: Sports, leisure and recreation space in Treptow-Köpenick
+11-5-2: Total supply of public green spaces
+12-1-1: Number of training courses on fair procurement per year
+12-2-1: Number of fair trade product groups
+12-2-2: Number of parishes with "Fair Parish" certification in the district as a percentage of the total number of parishes
+12-3-1: Status of certification of the municipality as a Fair Trade Town
+12-4-1: Number of fair trade schools in Treptow-Köpenick
+13-1-1: Number of climate policy networking meetings
+13-2-1: Number of kilometers of bike lanes in the district
+13-2-2: Number of cargo bikes in the district
+13-3-1: Total CO2 emissions
+13-3-2: Transformation sector
+13-3-3: Manufacturing, mining, quarrying
+13-3-4: Transport (total)
+13-3-5: Households, business, trade, services and other consumers
+13-4-1: Total CO2 emissions
+13-4-2: Manufacturing industry, mining and quarrying
+13-4-3: Transport (rail, road, air, inland waterways)
+13-4-4: Households, trade, commerce, services and other consumers
+14-1-1: Red list classification of fish species occurring in Berlin waters
+14-2-1: Number of residents attending ranger consultation hours
+14-3-1: To be defined
+15-1-1: To be defined
+15-2-1: To be defined
+15-3-1: Number of participations of the district in events of the "Biological Diversity Network" per year.
+15-4-1: Nature reserves and protected landscape areas (area in ha)
+15-5-1: To be defined
+16-1-1: Number of events on SDGs organized by the Treptow-Köpenick district administration per year
+16-2-1: Number of interfaith events per year
+16-3-1: Number of racist, anti-Semitic, homophobic and right-wing extremist incidents per year in Treptow-Köpenick
+16-4-1: Number of structures for citizen participation and actor networking in the district region profiles
+17-1-1: Number of events on the subject of city partnerships organized by the Treptow-Köpenick district administration per year
+17-2-1: Quantity of fair trade coffee packages sold (Treptow-Köpenicker Bohne)
+17-3-1: City partnerships
+17-3-2: Community projects and partnerships
+17-3-3: School partnerships
+17-3-4: Other civil society projects
+17-3-5: Fair trade
+17-4-1: One world projects and partnerships in the Treptow-Köpenick district
+17-5-1: Annual turnover of the one world stores in the district
+17-6-1: Public spending on development cooperation (Official Development Assistance, ODA) 
