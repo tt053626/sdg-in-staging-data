@@ -7,3 +7,15 @@ data.keineB: Keine Bewerbung
 data.nat: Naturschutzgebiete
 data.protect: Landschaftsschutzgebiete
 data.tot: Gesamt
+
+#16-3-1
+# data.tot: Gesamt
+data.wahlk: Wahlkampf
+data.ableism: Behindertenfeindlichkeit
+data.sozch: Sozialchauvinismus
+data.qhostility: LGBTIQ*-Feindlichkeit
+data.antisem: Antisemitismus
+data.rightwing: Rechte und extrem Rechte Selbstdarstellung
+data.polgeg: Politische Gegner*innen
+data.trivil: NS-Verharmlosung und Verherrlichung
+data.racism: Rassismus
