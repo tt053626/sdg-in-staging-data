@@ -7,3 +7,15 @@ data.keineB: No application
 data.nat: Nature reserves
 data.protect: Protected landscape areas
 data.tot: Total
+
+#16-3-1
+#data.tot: Total
+data.wahlk: Campaign
+data.ableism: Ableism
+data.sozch: Social-chauvinism
+data.qhostility: LGBTIQ* hostility
+data.antisem: Anti-Semitism
+data.rightwing: Right-wing and extreme right-wing self-portrayal
+data.polgeg: Political opponents
+data.trivil: NS trivialization and glorification
+data.racism: Racism
