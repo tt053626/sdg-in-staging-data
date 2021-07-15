@@ -1,6 +1,11 @@
 #7-3-1
 data.pow: Power class
 
+#8-4-1
+data.sex: Sex
+data.m: Men
+data.w: Women
+
 #12-4-1
 data.zert: Fairtrade-School certified
 data.inB: In application
