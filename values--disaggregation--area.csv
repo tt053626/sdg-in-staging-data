@@ -1,4 +1,4 @@
 Value,Disaggregation combinations using this value,Number of indicators
-Nature reserves,1,1
-Protected landscape areas,1,1
-Total,1,1
+data.nat,1,1
+data.protect,1,1
+data.tot,1,1
