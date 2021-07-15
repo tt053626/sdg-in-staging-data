@@ -1,6 +1,11 @@
 #7-3-1
 data.pow: Leistungsklasse
 
+#8-4-1
+data.sex: Geschlecht
+data.m: Männer
+data.w: Frauen
+
 #12-4-1
 data.zert: Fairtrade-School zertifiziert
 data.inB: In Bewerbung
