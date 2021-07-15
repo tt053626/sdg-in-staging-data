@@ -4,6 +4,7 @@ data.inB: In Bewerbung
 data.keineB: Keine Bewerbung
 
 #15-4-1
+data.area: Fläche
 data.nat: Naturschutzgebiete
 data.protect: Landschaftsschutzgebiete
 data.tot: Gesamt
