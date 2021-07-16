@@ -27,6 +27,7 @@ data.tot: Total
 
 #16-3-1
 #data.tot: Total
+data.incident: Type of incident
 data.wahlk: Campaign
 data.ableism: Ableism
 data.sozch: Social-chauvinism
