@@ -1,3 +1,10 @@
+#3-2-1
+data.noise: Relative Lärmbelastung
+data.no: Keine Werte
+data.low: Gering
+data.medium: Mittel
+data.high: Hoch
+
 #7-3-1
 data.pow: Leistungsklasse
 
