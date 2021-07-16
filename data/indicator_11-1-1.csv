@@ -1,7 +1,9 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,fFlotte,Value
+
+2020,fLotte kommunal,8
+2020,fLotte nicht-kommunal,12
+2020,gesamt,20
+
+2021,fLotte kommunal,10
+2021,fLotte nicht-kommunal,12
+2021,gesamt,22
