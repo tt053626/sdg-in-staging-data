@@ -1,5 +1,7 @@
-#3-2-1
+#3-2-1 #3-3-1
+
 data.noise: Relative Lärmbelastung
+data.air: Relative Luftbelastung
 data.no: Keine Werte
 data.low: Gering
 data.medium: Mittel
