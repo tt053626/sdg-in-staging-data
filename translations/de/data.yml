@@ -28,6 +28,7 @@ data.tot: Gesamt
 
 #16-3-1
 # data.tot: Gesamt
+data.incident: Art des Vorfalls
 data.wahlk: Wahlkampf
 data.ableism: Behindertenfeindlichkeit
 data.sozch: Sozialchauvinismus
