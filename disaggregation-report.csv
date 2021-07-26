@@ -1,6 +1,7 @@
 Disaggregation,Number of indicators,Number of values
 data.air,1,3
 data.area,1,3
+data.einewelt,1,5
 data.incident,1,10
 data.noise,1,4
 data.pow,1,5
