@@ -14,6 +14,10 @@ data.sex: Sex
 data.m: Men
 data.w: Women
 
+#12-2-2
+data.zertFG: Certificate
+data.zertK: No Certificate
+
 #12-4-1
 data.zert: Fairtrade-School certified
 data.inB: In application
