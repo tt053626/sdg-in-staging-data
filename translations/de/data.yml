@@ -15,6 +15,10 @@ data.sex: Geschlecht
 data.m: Männer
 data.w: Frauen
 
+#12-2-2
+data.zertFG: Siegel Faire Gemeinde
+data.zertK: Kein Siegel
+
 #12-4-1
 data.zert: Fairtrade-School zertifiziert
 data.inB: In Bewerbung
