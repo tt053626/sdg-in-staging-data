@@ -15,6 +15,14 @@ data.sex: Geschlecht
 data.m: Männer
 data.w: Frauen
 
+#11-5-2
+data.gruen: Öffentliche Grünflächen
+data.erhol: Grün- und Erholungsanlagen (inkl. Spielplätze)
+data.kleing: Kleingärten
+data.friedh: Friedhöfe
+data.strgr: Straßengrün 
+data.sumgr: Summe öffentliche Grünflächen
+
 #12-2-2
 data.zertFG: Siegel Faire Gemeinde
 data.zertK: Kein Siegel

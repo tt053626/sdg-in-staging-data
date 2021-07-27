@@ -14,6 +14,14 @@ data.sex: Sex
 data.m: Men
 data.w: Women
 
+#11-5-2
+data.gruen: Public green spaces
+data.erhol: Green and recreational facilities (incl. playgrounds)
+data.kleing: Allotment gardens
+data.friedh: Cemeteries
+data.strgr: Street green
+data.sumgr: Total public green spaces
+
 #12-2-2
 data.zertFG: Certificate
 data.zertK: No Certificate
