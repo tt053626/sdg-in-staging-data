@@ -91,7 +91,7 @@ map_layers:
  - geojson_file: tkortsteil.geojson
    name_property: spatial_al
    id_property: spatial_na
-   output_subfolder: regions
+   output_subfolder: districts
    filename_prefix: indicator_
 
 # Documentation settings
