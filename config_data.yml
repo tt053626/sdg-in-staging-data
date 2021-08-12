@@ -90,7 +90,7 @@ reporting_status_extra_fields: []
 map_layers:
  - geojson_file: district.geojson
    name_property: spatial_al
-   id_property: spatial_na
+   id_property: gml_id
    output_subfolder: districts
    filename_prefix: indicator_
 
