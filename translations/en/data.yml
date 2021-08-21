@@ -10,7 +10,7 @@ data.high: High
 data.pow: Power class
 
 #5-4-1
-#8-4-1
+#8-5-1
 data.sex: Sex
 data.m: Men
 data.w: Women
