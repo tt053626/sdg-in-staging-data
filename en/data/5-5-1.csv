@@ -1,3 +1,3 @@
-Year,Group,Value
-2016/2021,data.frauenanteil,34.5
-2016/2021,data.manneranteil,65.5
+Year,Sex,Value
+2016/2021,Women,34.5
+2016/2021,Men,65.5
