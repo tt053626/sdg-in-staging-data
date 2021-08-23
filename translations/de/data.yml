@@ -7,6 +7,13 @@ data.low: Gering
 data.medium: Mittel
 data.high: Hoch
 
+#6-4-1
+data.kat: Kategorie
+data.Ausgezeichnet: Ausgezeichnet
+data.Gut: Gut
+data.Ausreichend: Ausreichend
+data.Mangelhaft: Mangelhaft
+
 #7-3-1
 data.pow: Leistungsklasse
 
