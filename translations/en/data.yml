@@ -13,7 +13,6 @@ data.Gut: Good
 data.Ausreichend: Sufficient
 data.Mangelhaft: Poor
 
-
 #7-3-1
 data.pow: Power class
 
@@ -22,6 +21,12 @@ data.pow: Power class
 data.sex: Sex
 data.m: Men
 data.w: Women
+
+#11-5-1
+data.sied: Settlement area
+data.wohn: Residential area
+data.indu: Industrial and commercial area
+data.freiz: Sports, leisure and recreation area
 
 #11-5-2
 data.gruen: Public green spaces

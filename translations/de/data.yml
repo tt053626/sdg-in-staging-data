@@ -22,6 +22,12 @@ data.sex: Geschlecht
 data.m: Männer
 data.w: Frauen
 
+#11-5-1
+data.sied: Siedlungsfläche
+data.wohn: Wohnbaufläche
+data.indu: Industrie- und Gewerbefläche
+data.freiz: Sport-, Freizeit- und Erholungsfläche
+
 #11-5-2
 data.gruen: Öffentliche Grünflächen
 data.erhol: Grün- und Erholungsanlagen (inkl. Spielplätze)
