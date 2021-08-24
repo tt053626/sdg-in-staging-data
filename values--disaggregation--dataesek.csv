@@ -1,6 +1,6 @@
 Value,Disaggregation combinations using this value,Number of indicators
-data.gewerbe,1,1
-data.haushalte,1,1
-data.tot,1,1
+data.gewerbe,2,2
+data.haushalte,2,2
+data.tot,2,2
 data.umwand,1,1
-data.verkehr,1,1
+data.verkehr,2,2
