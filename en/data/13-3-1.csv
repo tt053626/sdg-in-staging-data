@@ -1,7 +1,51 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Emitting sectors,Value
+1990,Total,1650.81
+1990,Transformation sector,867.02
+1990,Manufacturing sector,95.24
+1990,Transportation,263.16
+1990,"Households, business, trade and services, other consumers",425.46
+2000,Total,1634.28
+2000,Transformation sector,773.27
+2000,Manufacturing sector,32.84
+2000,Transportation,343.08
+2000,"Households, business, trade and services, other consumers",485.15
+2010,Total,1346.19
+2010,Transformation sector,577.98
+2010,Manufacturing sector,38.14
+2010,Transportation,300.41
+2010,"Households, business, trade and services, other consumers",429.66
+2011,Total,1175.3
+2011,Transformation sector,503.56
+2011,Manufacturing sector,37.86
+2011,Transportation,298.89
+2011,"Households, business, trade and services, other consumers",334.98
+2012,Total,1176.59
+2012,Transformation sector,503.24
+2012,Manufacturing sector,34.48
+2012,Transportation,299.53
+2012,"Households, business, trade and services, other consumers",339.34
+2013,Total,1212.82
+2013,Transformation sector,501.84
+2013,Manufacturing sector,30.18
+2013,Transportation,310.58
+2013,"Households, business, trade and services, other consumers",370.22
+2014,Total,1141.76
+2014,Transformation sector,480.59
+2014,Manufacturing sector,19.86
+2014,Transportation,335.73
+2014,"Households, business, trade and services, other consumers",305.58
+2015,Total,1087.24
+2015,Transformation sector,465.53
+2015,Manufacturing sector,20.11
+2015,Transportation,318.42
+2015,"Households, business, trade and services, other consumers",283.18
+2016,Total,1104.97
+2016,Transformation sector,466.02
+2016,Manufacturing sector,17.62
+2016,Transportation,326.75
+2016,"Households, business, trade and services, other consumers",294.58
+2017,Total,1088.85
+2017,Transformation sector,447.93
+2017,Manufacturing sector,17.91
+2017,Transportation,332.84
+2017,"Households, business, trade and services, other consumers",290.17

@@ -1,7 +1,51 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Emittentensektoren,Value
+1990,Gesamt,1650.81
+1990,Umwandlungssektor,867.02
+1990,Verarbeitendes Gewerbe,95.24
+1990,Verkehr,263.16
+1990,"Haushalte, Gewerbe, Handel und Dienstleistungen, übrige Verbraucher",425.46
+2000,Gesamt,1634.28
+2000,Umwandlungssektor,773.27
+2000,Verarbeitendes Gewerbe,32.84
+2000,Verkehr,343.08
+2000,"Haushalte, Gewerbe, Handel und Dienstleistungen, übrige Verbraucher",485.15
+2010,Gesamt,1346.19
+2010,Umwandlungssektor,577.98
+2010,Verarbeitendes Gewerbe,38.14
+2010,Verkehr,300.41
+2010,"Haushalte, Gewerbe, Handel und Dienstleistungen, übrige Verbraucher",429.66
+2011,Gesamt,1175.3
+2011,Umwandlungssektor,503.56
+2011,Verarbeitendes Gewerbe,37.86
+2011,Verkehr,298.89
+2011,"Haushalte, Gewerbe, Handel und Dienstleistungen, übrige Verbraucher",334.98
+2012,Gesamt,1176.59
+2012,Umwandlungssektor,503.24
+2012,Verarbeitendes Gewerbe,34.48
+2012,Verkehr,299.53
+2012,"Haushalte, Gewerbe, Handel und Dienstleistungen, übrige Verbraucher",339.34
+2013,Gesamt,1212.82
+2013,Umwandlungssektor,501.84
+2013,Verarbeitendes Gewerbe,30.18
+2013,Verkehr,310.58
+2013,"Haushalte, Gewerbe, Handel und Dienstleistungen, übrige Verbraucher",370.22
+2014,Gesamt,1141.76
+2014,Umwandlungssektor,480.59
+2014,Verarbeitendes Gewerbe,19.86
+2014,Verkehr,335.73
+2014,"Haushalte, Gewerbe, Handel und Dienstleistungen, übrige Verbraucher",305.58
+2015,Gesamt,1087.24
+2015,Umwandlungssektor,465.53
+2015,Verarbeitendes Gewerbe,20.11
+2015,Verkehr,318.42
+2015,"Haushalte, Gewerbe, Handel und Dienstleistungen, übrige Verbraucher",283.18
+2016,Gesamt,1104.97
+2016,Umwandlungssektor,466.02
+2016,Verarbeitendes Gewerbe,17.62
+2016,Verkehr,326.75
+2016,"Haushalte, Gewerbe, Handel und Dienstleistungen, übrige Verbraucher",294.58
+2017,Gesamt,1088.85
+2017,Umwandlungssektor,447.93
+2017,Verarbeitendes Gewerbe,17.91
+2017,Verkehr,332.84
+2017,"Haushalte, Gewerbe, Handel und Dienstleistungen, übrige Verbraucher",290.17
