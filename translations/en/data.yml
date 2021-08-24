@@ -45,6 +45,13 @@ data.zert: Fairtrade-School certified
 data.inB: In application
 data.keineB: No application
 
+#13-3-1
+data.esek: Emitting sectors
+data.umwand: Transformation sector
+data.gewerbe: Manufacturing sector
+data.verkehr: Transportation
+data.haushalte: Households, business, trade and services, other consumers
+
 #15-4-1
 data.area: Area
 data.nat: Nature reserves
