@@ -45,6 +45,13 @@ data.zert: Fairtrade-School zertifiziert
 data.inB: In Bewerbung
 data.keineB: Keine Bewerbung
 
+#13-3-1
+data.esek: Emittentensektoren
+data.umwand: Umwandlungssektor
+data.gewerbe: Verarbeitendes Gewerbe
+data.verkehr: Verkehr
+data.haushalte: Haushalte, Gewerbe, Handel und Dienstleistungen, übrige Verbraucher
+
 #15-4-1
 data.area: Fläche
 data.nat: Naturschutzgebiete
