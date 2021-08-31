@@ -1,17 +1,13 @@
-Year,Order of transport,Value
-2019,Walking,27.6
-2019,Walking - Public transport - Walking,19.5
-2019,Bicycle,15.2
-2019,Motorized individual transport Driver,14.2 
-2019,Walking - Motorized individual transport Driver - Walking,5.0
-2019,Motorized individual transport Passenger,3.7
-2019,Walking - Motorized individual transport Driver,2.6
-2019,Motorized individual transport Driver - Walking,2.3
-2019,Walking - Motorized individual transport Passenger - Walking,1.6
-2019,Walking - Public transport - Walking - Public transport - Walking,1.5
-2019,Bicycle - Public transport - Walking,0.9
-2019,Walking - Public transport - Bicycle,0.8
-2019,Motorized private transport Passenger - Walking,0.7
-2019,Bicycle - Public transport - Bicycle,0.6
-2019,Walking - Motorized individual transport Passenger,0.6
-2019,Other,3.1
+Year,data.maintransport,data.spatialtypes,Value
+2019,data.fuss,data.binnen,29.3
+2019,data.rad,data.binnen,16.6
+2019,data.miv,data.binnen,28.5
+2019,data.offis,data.binnen,25.6
+2019,data.fuss,data.quell,2.6
+2019,data.rad,data.quell,5.6
+2019,data.miv,data.quell,64.5
+2019,data.offis,data.quell,27.4
+2019,data.fuss,data.allewege,27.6
+2019,data.rad,data.allewege,15.7
+2019,data.miv,data.allewege,31.0
+2019,data.offis,data.allewege,25.6
