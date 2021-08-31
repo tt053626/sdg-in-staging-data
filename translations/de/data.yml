@@ -24,7 +24,7 @@ data.w: Frauen
 
 #11-4-1
 data.maintransport: Hauptverkehrsmittel
-data.spatialtypes: Räumliche Verkehrsarten
+data.spatialtypes: Verkehrsströme
 data.fuss: Zu Fuß
 data.rad: Fahrrad
 data.miv: Motorisierter Individualverkehr
