@@ -28,6 +28,17 @@ data.wohn: Residential area
 data.indu: Industrial and commercial area
 data.freiz: Sports, leisure and recreation area
 
+#11-4-1
+data.maintransport: Main means of transport
+data.spatialtypes: Traffic flow types
+data.fuss: Walking
+data.rad: Bicycle
+data.miv: Motorized private transport
+data.offis: Public transport
+data.binnen: Domestic traffic
+data.quell: Source and destination traffic
+data.allewege: All routes
+
 #11-5-2
 data.gruen: Public green spaces
 data.erhol: Green and recreational facilities (incl. playgrounds)
