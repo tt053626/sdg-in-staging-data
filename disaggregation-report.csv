@@ -11,7 +11,7 @@ data.noise,1,4
 data.pow,1,5
 data.sex,2,4
 data.spatialtypes,1,3
-District,1,1
+District,2,1
 fLotte,2,3
-Ortsteil,1,15
+Ortsteil,2,15
 Status,2,5
