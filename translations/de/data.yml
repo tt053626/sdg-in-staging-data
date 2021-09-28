@@ -22,6 +22,11 @@ data.sex: Geschlecht
 data.m: Männer
 data.w: Frauen
 
+#9-1-1
+data.standort: Standort
+data.public: Öffentlicher Raum
+data.private: Öffentlich zugänglich - auf privatem Grund
+
 #11-4-1
 data.maintransport: Hauptverkehrsmittel
 data.spatialtypes: Verkehrsströme
