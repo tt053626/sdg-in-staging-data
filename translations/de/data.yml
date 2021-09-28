@@ -27,6 +27,9 @@ data.standort: Standort
 data.public: Öffentlicher Raum
 data.private: Öffentlich zugänglich - auf privatem Grund
 
+#9-3-1
+data.availability: Availability
+
 #11-4-1
 data.maintransport: Hauptverkehrsmittel
 data.spatialtypes: Verkehrsströme
