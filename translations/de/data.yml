@@ -71,6 +71,14 @@ data.gewerbe: Verarbeitendes Gewerbe
 data.verkehr: Verkehr
 data.haushalte: Haushalte, Gewerbe, Handel und Dienstleistungen, übrige Verbraucher
 
+#13-1-2
+#15-1-1
+
+data.antworten: Antworten
+data.ja: Ja
+data.nein: Nein
+
+
 #15-4-1
 data.area: Fläche
 data.nat: Naturschutzgebiete

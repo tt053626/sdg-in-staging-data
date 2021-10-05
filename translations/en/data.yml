@@ -71,6 +71,12 @@ data.gewerbe: Manufacturing sector
 data.verkehr: Transportation
 data.haushalte: Households, business, trade and services, other consumers
 
+#13-1-2
+#15-1-1
+data.antworten: Answers
+data.ja: yees
+data.nein: noo
+
 #15-4-1
 data.area: Area
 data.nat: Nature reserves
