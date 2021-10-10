@@ -74,8 +74,8 @@ data.haushalte: Households, business, trade and services, other consumers
 #13-1-2
 #15-1-1
 data.antworten: Answers
-data.ja: Yes-Answers
-data.nein: No-Answers
+data.ja: 'Yes' Answers
+data.nein: 'No' Answers
 
 #15-4-1
 data.area: Area
