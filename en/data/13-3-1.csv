@@ -1,56 +1,56 @@
-Year,Emitting sectors,Value
-1990,Total,1650.81
-1990,Transformation sector,867.02
-1990,Manufacturing sector,95.24
-1990,Transportation,263.16
-1990,"Households, business, trade and services, other consumers",425.46
-2000,Total,1634.28
-2000,Transformation sector,773.27
-2000,Manufacturing sector,32.84
-2000,Transportation,343.08
-2000,"Households, business, trade and services, other consumers",485.15
-2010,Total,1391.7
-2010,Transformation sector,597.52
-2010,Manufacturing sector,39.43
-2010,Transportation,310.56
-2010,"Households, business, trade and services, other consumers",444.19
-2011,Total,1218.32
-2011,Transformation sector,521.99
-2011,Manufacturing sector,39.25
-2011,Transportation,309.83
-2011,"Households, business, trade and services, other consumers",347.24
-2012,Total,1225.47
-2012,Transformation sector,524.15
-2012,Manufacturing sector,35.91
-2012,Transportation,311.97
-2012,"Households, business, trade and services, other consumers",353.44
-2013,Total,1269.95
-2013,Transformation sector,525.48
-2013,Manufacturing sector,31.61
-2013,Transportation,325.21
-2013,"Households, business, trade and services, other consumers",387.66
-2014,Total,1203.8
-2014,Transformation sector,506.7
-2014,Manufacturing sector,20.94
-2014,Transportation,353.98
-2014,"Households, business, trade and services, other consumers",322.18
-2015,Total,1160.65
-2015,Transformation sector,496.96
-2015,Manufacturing sector,21.47
-2015,Transportation,339.91
-2015,"Households, business, trade and services, other consumers",302.3
-2016,Total,1197.14
-2016,Transformation sector,504.89
-2016,Manufacturing sector,19.09
-2016,Transportation,354.01
-2016,"Households, business, trade and services, other consumers",319.15
-2017,Total,1189.45
-2017,Transformation sector,489.32
-2017,Manufacturing sector,19.56
-2017,Transportation,363.6
-2017,"Households, business, trade and services, other consumers",316.98
-2018,Total,1117.56
-2018,Transformation sector,425.66
-2018,Manufacturing sector,19.51
-2018,Transportation,373.84
-2018,"Households, business, trade and services, other consumers",298.55
+Year,data.esek,Value
+1990,data.tot,1650.81
+1990,data.umwand,867.02
+1990,data.gewerbe,95.24
+1990,data.verkehr,263.16
+1990,data.haushalte,425.46
+2000,data.tot,1634.28
+2000,data.umwand,773.27
+2000,data.gewerbe,32.84
+2000,data.verkehr,343.08
+2000,data.haushalte,485.15
+2010,data.tot,1391.7
+2010,data.umwand,597.52
+2010,data.gewerbe,39.43
+2010,data.verkehr,310.56
+2010,data.haushalte,444.19
+2011,data.tot,1218.32
+2011,data.umwand,521.99
+2011,data.gewerbe,39.25
+2011,data.verkehr,309.83
+2011,data.haushalte,347.24
+2012,data.tot,1225.47
+2012,data.umwand,524.15
+2012,data.gewerbe,35.91
+2012,data.verkehr,311.97
+2012,data.haushalte,353.44
+2013,data.tot,1269.95
+2013,data.umwand,525.48
+2013,data.gewerbe,31.61
+2013,data.verkehr,325.21
+2013,data.haushalte,387.66
+2014,data.tot,1203.8
+2014,data.umwand,506.7
+2014,data.gewerbe,20.94
+2014,data.verkehr,353.98
+2014,data.haushalte,322.18
+2015,data.tot,1160.65
+2015,data.umwand,496.96
+2015,data.gewerbe,21.47
+2015,data.verkehr,339.91
+2015,data.haushalte,302.3
+2016,data.tot,1197.14
+2016,data.umwand,504.89
+2016,data.gewerbe,19.09
+2016,data.verkehr,354.01
+2016,data.haushalte,319.15
+2017,data.tot,1189.45
+2017,data.umwand,489.32
+2017,data.gewerbe,19.56
+2017,data.verkehr,363.6
+2017,data.haushalte,316.98
+2018,data.tot,1117.56
+2018,data.umwand,425.66
+2018,data.gewerbe,19.51
+2018,data.verkehr,373.84
+2018,data.haushalte,298.55

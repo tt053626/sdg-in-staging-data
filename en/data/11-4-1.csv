@@ -1,13 +1,13 @@
-Year,Main means of transport,Traffic flow types,Value
-2018,Walking,Domestic traffic,29.3
-2018,Bicycle,Domestic traffic,16.6
-2018,Motorized private transport,Domestic traffic,28.5
-2018,Public transport,Domestic traffic,25.6
-2018,Walking,Source and destination traffic,2.6
-2018,Bicycle,Source and destination traffic,5.6
-2018,Motorized private transport,Source and destination traffic,64.5
-2018,Public transport,Source and destination traffic,27.4
-2018,Walking,All routes,27.6
-2018,Bicycle,All routes,15.7
-2018,Motorized private transport,All routes,31.0
-2018,Public transport,All routes,25.6
+Year,data.maintransport,data.spatialtypes,Value
+2018,data.fuss,data.binnen,29.3
+2018,data.rad,data.binnen,16.6
+2018,data.miv,data.binnen,28.5
+2018,data.offis,data.binnen,25.6
+2018,data.fuss,data.quell,2.6
+2018,data.rad,data.quell,5.6
+2018,data.miv,data.quell,64.5
+2018,data.offis,data.quell,27.4
+2018,data.fuss,data.allewege,27.6
+2018,data.rad,data.allewege,15.7
+2018,data.miv,data.allewege,31.0
+2018,data.offis,data.allewege,25.6
