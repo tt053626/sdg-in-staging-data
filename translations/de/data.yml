@@ -7,6 +7,11 @@ data.low: Gering
 data.medium: Mittel
 data.high: Hoch
 
+#6-1-1
+data.zustand: Zustand
+data.saprobie: Saprobie
+data.trophie: Trophie
+
 #6-4-1
 data.kat: Kategorie
 data.Ausgezeichnet: Ausgezeichnet
