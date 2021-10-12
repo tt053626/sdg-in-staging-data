@@ -6,6 +6,11 @@ data.low: Low
 data.medium: Medium
 data.high: High
 
+#6-1-1
+data.zustand: Status
+data.saprobie: Saprobity
+data.trophie: Trophicity
+
 #6-4-1
 data.kat: Category
 data.Ausgezeichnet: Excellent
