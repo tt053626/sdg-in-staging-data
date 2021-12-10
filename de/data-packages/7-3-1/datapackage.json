@@ -1,0 +1,45 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "data.pow",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "<30 kW",
+                ">30 - 40 kW",
+                ">40 - 100 kW",
+                ">100 - 750 kW",
+                ">750 kW",
+                ""
+              ]
+            },
+            "title": "Leistungsklasse"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "7-3-1",
+  "title": "Photovoltaik - Summe der Anlagen im Bezirk"
+}

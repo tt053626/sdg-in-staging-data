@@ -1,0 +1,45 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "data.einewelt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Parish projects",
+                "School partnerships",
+                "City partnerships",
+                "Fair Trade Shops",
+                "Civil society projects"
+              ]
+            },
+            "title": "One-World-Projects"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-4-1",
+  "title": "One world projects and partnerships in the Treptow-Köpenick district"
+}

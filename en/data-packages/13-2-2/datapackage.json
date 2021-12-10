@@ -1,0 +1,43 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "fLotte",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Total",
+                "fLotte kommunal",
+                "fLotte nicht-kommunal"
+              ]
+            },
+            "title": "fLotte"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "13-2-2",
+  "title": "Number of cargo bikes that can be borrowed free of charge in the district"
+}

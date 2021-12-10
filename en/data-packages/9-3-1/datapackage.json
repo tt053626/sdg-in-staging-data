@@ -1,0 +1,47 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "data.availability",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "10 Mbit/s",
+                "100 Mbit/s",
+                "1000 Mbit/s",
+                "16 Mbit/s",
+                "200 Mbit/s",
+                "30 Mbit/s",
+                "50 Mbit/s"
+              ]
+            },
+            "title": "Availability"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "9-3-1",
+  "title": "Broadband availability Mbit/s in %."
+}

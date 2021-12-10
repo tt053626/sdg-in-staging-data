@@ -1,0 +1,44 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "data.esek",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gesamt",
+                "Verarbeitendes Gewerbe",
+                "Verkehr",
+                "Haushalte, Gewerbe, Handel und Dienstleistungen, übrige Verbraucher",
+                ""
+              ]
+            },
+            "title": "Emittentensektoren"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "13-3-1",
+  "title": "CO2-Emissionen aus dem Endenergieverbrauch (Verursacherbilanz)"
+}

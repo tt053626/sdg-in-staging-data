@@ -1,0 +1,57 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "data.maintransport",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Walking",
+                "Motorized private transport",
+                "Public transport",
+                "Bicycle"
+              ]
+            },
+            "title": "Main means of transport"
+          },
+          {
+            "name": "data.spatialtypes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "All routes",
+                "Domestic traffic",
+                "Source and destination traffic"
+              ]
+            },
+            "title": "Traffic flow types"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "11-4-1",
+  "title": "Frequency of means of transportation used on routes in Treptow-Köpenick"
+}
