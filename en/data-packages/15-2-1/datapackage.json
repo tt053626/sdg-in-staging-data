@@ -11,18 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "A",
-                "B"
-              ]
-            },
-            "title": "Group"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
@@ -38,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "15-2-1",
-  "title": "To be defined"
+  "title": "Number of participations of the district in meetings and events of the biodiversity network per year"
 }

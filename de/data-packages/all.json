@@ -9,7 +9,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "iso8859-9",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -18,26 +18,25 @@
             "title": "Year"
           },
           {
-            "name": "data.area",
+            "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "Naturschutzgebiete",
-                "Landschaftsschutzgebiete",
-                "Gesamt",
+                "A",
+                "B",
                 ""
               ]
             },
-            "title": "Fläche"
+            "title": "Group"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
       },
-      "title": "Naturschutzgebiete und Landschaftsschutzgebiete (Fläche in ha)"
+      "title": "Noch zu definieren"
     },
     {
       "path": "2-3-1/data.csv",
@@ -463,7 +462,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-9",
       "schema": {
         "fields": [
           {
@@ -472,13 +471,26 @@
             "title": "Year"
           },
           {
+            "name": "data.area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Naturschutzgebiete",
+                "Landschaftsschutzgebiete",
+                "Gesamt",
+                ""
+              ]
+            },
+            "title": "Fläche"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
       },
-      "title": "Anzahl der Teilnahmen des Bezirks an Netzwerktreffen und Veranstaltungen des „Akteursnetzwerk biologische Vielfalt“ pro Jahr"
+      "title": "Naturschutzgebiete und Landschaftsschutzgebiete (Fläche in ha)"
     },
     {
       "path": "11-5-2/data.csv",
@@ -700,31 +712,7 @@
           }
         ]
       },
-      "title": "Relative Lärmbelastung in Treptow-Köpenick"
-    },
-    {
-      "path": "8-6-1/data.csv",
-      "name": "8-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Kaitz-Index für Berlin - Monatlicher Mindestlohn in % des Durchschnittsverdienstes von Vollzeitbeschäftigten"
+      "title": "Relative Lärmbelastung in Treptow-Köpenick (Umweltgerechtigkeit)"
     },
     {
       "path": "9-1-2/data.csv",
@@ -1209,25 +1197,13 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
           }
         ]
       },
-      "title": "Noch zu definieren"
+      "title": "Anzahl der Teilnahmen des Bezirks an Netzwerktreffen und Veranstaltungen des „Akteursnetzwerk biologische Vielfalt“ pro Jahr"
     },
     {
       "path": "14-3-1/data.csv",
@@ -1396,7 +1372,44 @@
           }
         ]
       },
-      "title": "Relative Luftbelastung in Treptow-Köpenick"
+      "title": "Relative Luftbelastung in Treptow-Köpenick (Umweltgerechtigkeit)"
+    },
+    {
+      "path": "3-3-2/data.csv",
+      "name": "3-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "data.air",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PM10",
+                "Ozon",
+                "Ozon gleitend",
+                ""
+              ]
+            },
+            "title": "Relative Luftbelastung"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "3-3-2"
     },
     {
       "path": "7-1-1/data.csv",
@@ -2800,42 +2813,6 @@
         ]
       },
       "title": "Anzahl der kostenlos ausleihbaren Lastenräder im Bezirk"
-    },
-    {
-      "path": "15-5-1/data.csv",
-      "name": "15-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Noch zu definieren"
     }
   ]
 }

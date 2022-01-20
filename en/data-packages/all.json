@@ -13,31 +13,30 @@
       "schema": {
         "fields": [
           {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "A",
+                "B"
+              ]
+            },
+            "title": "Group"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
             "name": "Year",
             "type": "integer",
             "title": "Year"
-          },
-          {
-            "name": "data.area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Nature reserves",
-                "Protected landscape areas",
-                "Total"
-              ]
-            },
-            "title": "Area"
           }
         ]
       },
-      "title": "Nature reserves and protected landscape areas (area in ha)"
+      "title": "To be defined"
     },
     {
       "path": "2-3-1/data.csv",
@@ -468,17 +467,30 @@
         "fields": [
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "data.area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Nature reserves",
+                "Protected landscape areas",
+                "Total"
+              ]
+            },
+            "title": "Area"
           }
         ]
       },
-      "title": "Number of participations of the district in meetings and events of the biodiversity network per year"
+      "title": "Nature reserves and protected landscape areas (area in ha)"
     },
     {
       "path": "11-5-2/data.csv",
@@ -700,31 +712,7 @@
           }
         ]
       },
-      "title": "Relative noise pollution in Treptow-Köpenick"
-    },
-    {
-      "path": "8-6-1/data.csv",
-      "name": "8-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Kaitz index for Berlin - Monthly minimum wage as % of average earnings of full-time employees"
+      "title": "Relative noise pollution in Treptow-Köpenick (Environmental justice)"
     },
     {
       "path": "9-1-2/data.csv",
@@ -1204,18 +1192,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "A",
-                "B"
-              ]
-            },
-            "title": "Group"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
@@ -1227,7 +1203,7 @@
           }
         ]
       },
-      "title": "To be defined"
+      "title": "Number of participations of the district in meetings and events of the biodiversity network per year"
     },
     {
       "path": "14-3-1/data.csv",
@@ -1396,7 +1372,44 @@
           }
         ]
       },
-      "title": "Relative air pollution in Treptow-Köpenick"
+      "title": "Relative air pollution in Treptow-Köpenick (Environmental justice)"
+    },
+    {
+      "path": "3-3-2/data.csv",
+      "name": "3-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "data.air",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Ozon",
+                "Ozon gleitend",
+                "PM10"
+              ]
+            },
+            "title": "Relative air pollution"
+          }
+        ]
+      },
+      "title": "3-3-2"
     },
     {
       "path": "7-1-1/data.csv",
@@ -2800,42 +2813,6 @@
         ]
       },
       "title": "Number of cargo bikes that can be borrowed free of charge in the district"
-    },
-    {
-      "path": "15-5-1/data.csv",
-      "name": "15-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "A",
-                "B"
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "To be defined"
     }
   ]
 }

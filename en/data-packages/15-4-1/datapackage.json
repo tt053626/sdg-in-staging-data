@@ -11,27 +11,26 @@
       "schema": {
         "fields": [
           {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "A",
+                "B"
+              ]
+            },
+            "title": "Group"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
             "name": "Year",
             "type": "integer",
             "title": "Year"
-          },
-          {
-            "name": "data.area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Nature reserves",
-                "Protected landscape areas",
-                "Total"
-              ]
-            },
-            "title": "Area"
           }
         ]
       }
@@ -39,5 +38,5 @@
   ],
   "profile": "data-package",
   "name": "15-4-1",
-  "title": "Nature reserves and protected landscape areas (area in ha)"
+  "title": "To be defined"
 }

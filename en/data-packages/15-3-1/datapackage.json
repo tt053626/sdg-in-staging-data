@@ -12,13 +12,26 @@
         "fields": [
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "data.area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Nature reserves",
+                "Protected landscape areas",
+                "Total"
+              ]
+            },
+            "title": "Area"
           }
         ]
       }
@@ -26,5 +39,5 @@
   ],
   "profile": "data-package",
   "name": "15-3-1",
-  "title": "Number of participations of the district in meetings and events of the biodiversity network per year"
+  "title": "Nature reserves and protected landscape areas (area in ha)"
 }
