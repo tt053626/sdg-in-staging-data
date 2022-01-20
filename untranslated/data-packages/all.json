@@ -78,7 +78,7 @@
             "constraints": {
               "enum": [
                 "Alt-Treptow",
-                "Plaenterwald",
+                "Plänterwald",
                 "Baumschulenweg",
                 "Johannisthal",
                 "Niederschoeneweide",
@@ -101,6 +101,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Treptow-Köpenick",
                 "Treptow-Koepenick",
                 ""
               ]

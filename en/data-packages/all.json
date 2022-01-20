@@ -79,7 +79,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Treptow-Koepenick"
+                "Treptow-Koepenick",
+                "Treptow-Köpenick"
               ]
             },
             "title": "District"
@@ -107,7 +108,7 @@
                 "Mueggelheim",
                 "Niederschoeneweide",
                 "Oberschoeneweide",
-                "Plaenterwald",
+                "Plänterwald",
                 "Rahnsdorf",
                 "Schmoeckwitz"
               ]
