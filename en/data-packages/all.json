@@ -1395,7 +1395,7 @@
             "title": "Year"
           },
           {
-            "name": "data.air",
+            "name": "data.luftg",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1405,7 +1405,7 @@
                 "Particulates (PM10)"
               ]
             },
-            "title": "Relative air pollution"
+            "title": "data.luftg"
           }
         ]
       },

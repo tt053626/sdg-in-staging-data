@@ -1277,7 +1277,7 @@
             "type": "integer"
           },
           {
-            "name": "data.air",
+            "name": "data.luftg",
             "type": "string",
             "constraints": {
               "enum": [

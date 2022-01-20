@@ -1381,7 +1381,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
@@ -1390,7 +1390,7 @@
             "title": "Year"
           },
           {
-            "name": "data.air",
+            "name": "data.luftg",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1400,7 +1400,7 @@
                 ""
               ]
             },
-            "title": "Relative Luftbelastung"
+            "title": "Luftgüte"
           },
           {
             "name": "Value",
