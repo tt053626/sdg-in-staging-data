@@ -23,17 +23,17 @@
                 "Plänterwald",
                 "Baumschulenweg",
                 "Johannisthal",
-                "Niederschoeneweide",
+                "Niederschöneweide",
                 "Altglienicke",
                 "Adlershof",
                 "Bohnsdorf",
-                "Oberschoeneweide",
-                "Koepenick",
+                "Oberschöneweide",
+                "Köpenick",
                 "Friedrichshagen",
                 "Rahnsdorf",
-                "Gruenau",
-                "Mueggelheim",
-                "Schmoeckwitz",
+                "Grünau",
+                "Müggelheim",
+                "Schmöckwitz",
                 ""
               ]
             }
@@ -44,7 +44,6 @@
             "constraints": {
               "enum": [
                 "Treptow-Köpenick",
-                "Treptow-Koepenick",
                 ""
               ]
             }

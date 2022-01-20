@@ -79,7 +79,6 @@
             "constraints": {
               "enum": [
                 "",
-                "Treptow-Koepenick",
                 "Treptow-Köpenick"
               ]
             },
@@ -102,15 +101,15 @@
                 "Baumschulenweg",
                 "Bohnsdorf",
                 "Friedrichshagen",
-                "Gruenau",
+                "Grünau",
                 "Johannisthal",
-                "Koepenick",
-                "Mueggelheim",
-                "Niederschoeneweide",
-                "Oberschoeneweide",
+                "Köpenick",
+                "Müggelheim",
+                "Niederschöneweide",
+                "Oberschöneweide",
                 "Plänterwald",
                 "Rahnsdorf",
-                "Schmoeckwitz"
+                "Schmöckwitz"
               ]
             },
             "title": "Ortsteil"
