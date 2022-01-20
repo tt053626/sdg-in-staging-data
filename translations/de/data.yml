@@ -7,6 +7,10 @@ data.low: Gering
 data.medium: Mittel
 data.high: Hoch
 
+data.pm: Feinstaub (PM10)
+data.ozonst: Ozon Stundenwerte
+data.ozonacht: Ozon 8-Stundenwerte (gleitend)
+
 #6-1-1
 data.zustand: Zustand
 data.saprobie: Saprobie
