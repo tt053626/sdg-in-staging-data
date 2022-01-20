@@ -1,5 +1,4 @@
-Year,data.noise,Value
-2017,data.no,2
-2017,data.low,6
-2017,data.medium,22
-2017,data.high,4
+Year,data.air,Value
+2019,PM10,1
+2019,Ozon,1
+2019,Ozon gleitend,33
