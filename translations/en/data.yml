@@ -6,6 +6,11 @@ data.low: Low
 data.medium: Medium
 data.high: High
 
+#3-3-2
+data.pm: Particulates (PM10)
+data.ozonst: Ozone hourly values
+data.ozonacht: Ozone 8-hour values
+
 #6-1-1
 data.zustand: Status
 data.saprobie: Saprobity
