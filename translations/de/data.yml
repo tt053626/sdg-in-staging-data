@@ -7,6 +7,8 @@ data.low: Gering
 data.medium: Mittel
 data.high: Hoch
 
+#3-3-2
+data.luftg: Luftgüte
 data.pm: Feinstaub (PM10)
 data.ozonst: Ozon Stundenwerte
 data.ozonacht: Ozon 8-Stundenwerte (gleitend)
