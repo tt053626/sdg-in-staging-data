@@ -1,22 +1,22 @@
 Year,Relative air pollution,Value
-2015,PM10,9
-2015,Ozon,5
-2015,Ozon gleitend,31
-2016,PM10,4
-2016,Ozon,0
-2016,Ozon gleitend,32
-2017,PM10,4
-2017,Ozon,0
-2017,Ozon gleitend,8
-2018,PM10,5
-2018,Ozon,3
-2018,Ozon gleitend,36
-2019,PM10,1
-2019,Ozon,1
-2019,Ozon gleitend,33
-2020,PM10,1
-2020,Ozon,0
-2020,Ozon gleitend,20
-2021,PM10,1
-2021,Ozon,0
-2021,Ozon gleitend,14
+2015,Particulates (PM10),9
+2015,Ozone hourly values,5
+2015,Ozone 8-hour values,31
+2016,Particulates (PM10),4
+2016,Ozone hourly values,0
+2016,Ozone 8-hour values,32
+2017,Particulates (PM10),4
+2017,Ozone hourly values,0
+2017,Ozone 8-hour values,8
+2018,Particulates (PM10),5
+2018,Ozone hourly values,3
+2018,Ozone 8-hour values,36
+2019,Particulates (PM10),1
+2019,Ozone hourly values,1
+2019,Ozone 8-hour values,33
+2020,Particulates (PM10),1
+2020,Ozone hourly values,0
+2020,Ozone 8-hour values,20
+2021,Particulates (PM10),1
+2021,Ozone hourly values,0
+2021,Ozone 8-hour values,14

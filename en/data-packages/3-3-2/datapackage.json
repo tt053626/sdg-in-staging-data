@@ -26,9 +26,9 @@
             "constraints": {
               "enum": [
                 "",
-                "Ozon",
-                "Ozon gleitend",
-                "PM10"
+                "Ozone 8-hour values",
+                "Ozone hourly values",
+                "Particulates (PM10)"
               ]
             },
             "title": "Relative air pollution"

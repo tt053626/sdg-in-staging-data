@@ -19,9 +19,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PM10",
-                "Ozon",
-                "Ozon gleitend",
+                "data.pm",
+                "data.ozonst",
+                "data.ozonacht",
                 ""
               ]
             }

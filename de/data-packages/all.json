@@ -1394,9 +1394,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PM10",
-                "Ozon",
-                "Ozon gleitend",
+                "Feinstaub (PM10)",
+                "Ozon Stundenwerte",
+                "Ozon 8-Stundenwerte (gleitend)",
                 ""
               ]
             },
