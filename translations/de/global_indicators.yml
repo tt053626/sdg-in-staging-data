@@ -7,8 +7,9 @@
 3-1-1-title: Stadtradeln - Anzahl der Personen die teilnehmen
 3-1-2-title: Stadtradeln - Mit Fahrrad gefahrene Kilometer
 3-1-3-title: Stadtradeln - Kilogramm CO2 eingespart
-3-2-1-title: Relative Lärmbelastung in Treptow-Köpenick
-3-3-1-title: Relative Luftbelastung in Treptow-Köpenick
+3-2-1-title: Relative Lärmbelastung in Treptow-Köpenick (Umweltgerechtigkeit)
+3-3-1-title: Relative Luftbelastung in Treptow-Köpenick (Umweltgerechtigkeit)
+3-3-2-title: Grenzwertüberschreitungen Luftverschmutzung in Treptow-Köpenick
 4-1-1-title: Anzahl der Schulen die pro Jahr an Lernkonferenz teilnehmen
 4-2-1-title: Anzahl angebotener Fortbildungen zu 'Bildung für nachhaltige Entwicklung' (BNE) für das pädagogische Personal an Schulen in Treptow-Köpenick
 4-3-1-title: Anzahl der Volkshochschul (VHS) Kurse zum Themenbereich Globales lernen, 'Bildung für nachhaltige Entwicklung' (BNE) und SDGs
@@ -36,7 +37,6 @@
 8-3-2-title: Anteil der Beschäftigten mit Einwanderungsgeschichte in Führungspositionen der Kommunalverwaltung
 8-4-1-title: Anzahl der kommunalen Einrichtungen in Treptow-Köpenick die über ein gültiges Testat einer Gemeinwohl-Bilanz verfügen
 8-5-1-title: Bruttostundenverdienste und Verdienstunterschiede zwischen Frauen und Männern (Gender Pay Gap unbereinigt)
-8-6-1-title: Kaitz-Index für Berlin - Monatlicher Mindestlohn in % des Durchschnittsverdienstes von Vollzeitbeschäftigten
 9-1-1-title: Anzahl der Ladestationen für E-Autos
 9-1-2-title: Stromverbrauch an Elektro-Ladesäulen
 9-2-1-title: Anzahl öffentlicher Einrichtungen mit freiem WLAN Zugang
@@ -70,10 +70,9 @@
 14-2-1-title: Anzahl der Anwohnerinnen die an der Sprechstunde der Ranger teilnehmen
 14-3-1-title: Noch zu definieren
 15-1-1-title: Index Kommunale Klimaanpassung
-15-2-1-title: Noch zu definieren
-15-3-1-title: Anzahl der Teilnahmen des Bezirks an Netzwerktreffen und Veranstaltungen des „Akteursnetzwerk biologische Vielfalt“ pro Jahr
-15-4-1-title: Naturschutzgebiete und Landschaftsschutzgebiete (Fläche in ha)
-15-5-1-title: Noch zu definieren
+15-2-1-title: Anzahl der Teilnahmen des Bezirks an Netzwerktreffen und Veranstaltungen des „Akteursnetzwerk biologische Vielfalt“ pro Jahr
+15-3-1-title: Naturschutzgebiete und Landschaftsschutzgebiete (Fläche in ha)
+15-4-1-title: Noch zu definieren
 16-1-1-title: Anzahl der partizipativen Veranstaltungen zum Thema SDGs des Bezirksamts Treptow-Köpenick pro Jahr
 16-2-1-title: Anzahl der interreligiösen Veranstaltungen pro Jahr
 16-3-1-title: Anzahl der rassistisch, antisemitisch, homophob und rechtsextrem geprägter Vorfälle pro Jahr in Treptow-Köpenick
