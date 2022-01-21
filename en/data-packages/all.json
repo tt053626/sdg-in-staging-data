@@ -1931,6 +1931,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Berlin",
+                "Treptow-Köpenick"
+              ]
+            },
+            "title": "Region"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
