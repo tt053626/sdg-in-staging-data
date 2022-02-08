@@ -44,6 +44,10 @@ data.standort: Location
 data.public: Public space
 data.private: Publicly accessible - on private land
 
+#9-2-1
+data.indoor: Indoor Access Points 
+data.outdoor: Outdoor Access Points 
+
 #9-3-1
 data.availability: Availability
 
