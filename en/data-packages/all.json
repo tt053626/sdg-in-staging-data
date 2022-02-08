@@ -2320,18 +2320,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "A",
-                "B"
-              ]
-            },
-            "title": "Group"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
@@ -2340,6 +2328,19 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "data.group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Repair Cafes",
+                "ReUse Shops",
+                "Community Workshops"
+              ]
+            },
+            "title": "Group"
           }
         ]
       },

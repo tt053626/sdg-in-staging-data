@@ -2325,16 +2325,17 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "data.group",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Repair Cafes",
+                "Gemeinschaftswerkstätten",
+                "ReUse Shops",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Gruppe"
           },
           {
             "name": "Value",

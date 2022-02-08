@@ -2135,12 +2135,13 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "data.group",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "data.repcaf",
+                "data.workshops",
+                "data.reuse",
                 ""
               ]
             }
