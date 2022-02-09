@@ -45,8 +45,9 @@ data.public: Public space
 data.private: Publicly accessible - on private land
 
 #9-2-1
-data.indoor: Indoor Access Points 
-data.outdoor: Outdoor Access Points 
+data.zug: Access Points
+data.indoor: Indoor
+data.outdoor: Outdoor
 
 #9-3-1
 data.availability: Availability
