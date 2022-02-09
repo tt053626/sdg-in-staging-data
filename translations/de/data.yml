@@ -46,8 +46,9 @@ data.public: Öffentlicher Raum
 data.private: Öffentlich zugänglich - auf privatem Grund
 
 #9-2-1
-data.indoor: Zugangspunkte Innenbereich
-data.outdoor: Zugangspunkte Außenbereich
+data.zug: Zugangspunkte
+data.indoor: Innenbereich
+data.outdoor: Außenbereich
 
 #9-3-1
 data.availability: Verfügbarkeit
