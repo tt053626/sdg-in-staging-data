@@ -2289,7 +2289,7 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "data.zug",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2298,7 +2298,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "data.zug"
           },
           {
             "name": "Value",

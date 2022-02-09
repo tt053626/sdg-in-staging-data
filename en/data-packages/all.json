@@ -2284,18 +2284,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Indoor Access Points",
-                "Outdoor Access Points"
-              ]
-            },
-            "title": "Group"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
@@ -2304,6 +2292,18 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "data.zug",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Indoor Access Points",
+                "Outdoor Access Points"
+              ]
+            },
+            "title": "data.zug"
           }
         ]
       },

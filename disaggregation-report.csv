@@ -16,10 +16,10 @@ data.pow,1,5
 data.sex,2,4
 data.spatialtypes,1,3
 data.standort,1,3
+data.zug,1,2
 data.zustand,1,2
 District,2,2
 fLotte,2,3
-Group,1,2
 Ortsteil,2,22
 Region,1,2
 Status,2,5

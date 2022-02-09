@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "data.zug",
             "type": "string",
             "constraints": {
               "enum": [
