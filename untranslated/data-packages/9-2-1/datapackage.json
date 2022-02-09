@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "data.indoor",
+                "data.outdoor",
                 ""
               ]
             }

@@ -16,8 +16,8 @@
             "constraints": {
               "enum": [
                 "",
-                "A",
-                "B"
+                "Indoor Access Points",
+                "Outdoor Access Points"
               ]
             },
             "title": "Group"

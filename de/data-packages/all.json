@@ -2293,8 +2293,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Zugangspunkte Innenbereich",
+                "Zugangspunkte Außenbereich",
                 ""
               ]
             },
