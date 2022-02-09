@@ -2293,12 +2293,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zugangspunkte Innenbereich",
-                "Zugangspunkte Außenbereich",
+                "Innenbereich",
+                "Außenbereich",
                 ""
               ]
             },
-            "title": "data.zug"
+            "title": "Zugangspunkte"
           },
           {
             "name": "Value",
