@@ -1,11 +1,11 @@
-Year,data.zug,Value
-2017,Indoor Access Points,110
-2018,Indoor Access Points,110
-2019,Indoor Access Points,110
-2020,Indoor Access Points,110
-2021,Indoor Access Points,110
-2017,Outdoor Access Points,26
-2018,Outdoor Access Points,26
-2019,Outdoor Access Points,26
-2020,Outdoor Access Points,26
-2021,Outdoor Access Points,26
+Year,Access Points,Value
+2017,Indoor,110
+2018,Indoor,110
+2019,Indoor,110
+2020,Indoor,110
+2021,Indoor,110
+2017,Outdoor,26
+2018,Outdoor,26
+2019,Outdoor,26
+2020,Outdoor,26
+2021,Outdoor,26

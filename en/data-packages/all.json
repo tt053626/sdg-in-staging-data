@@ -2299,11 +2299,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Indoor Access Points",
-                "Outdoor Access Points"
+                "Indoor",
+                "Outdoor"
               ]
             },
-            "title": "data.zug"
+            "title": "Access Points"
           }
         ]
       },
