@@ -99,6 +99,18 @@ data.antworten: Answers
 data.ja: Yes-Answers
 data.nein: No-Answers
 
+#14-1-1
+data.rlnull: Extinct or Lost 
+data.rleins: Threatened with Extinction
+data.rlzwei: Highly Threatened
+data.rldrei: Threatened
+data.rlg: Threat of Unknown Extent
+data.rlr: Extremely Rare
+data.rlv: Near Threatened
+data.tlu: Not Threatened
+data.rld: Data Deficient
+data.rle: Not Evaluated
+
 #15-4-1
 data.area: Area
 data.nat: Nature reserves
