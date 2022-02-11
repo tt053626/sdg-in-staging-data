@@ -100,6 +100,7 @@ data.ja: Yes-Answers
 data.nein: No-Answers
 
 #14-1-1
+data.redlistcat: Red List Categories
 data.rlnull: Extinct or Lost 
 data.rleins: Threatened with Extinction
 data.rlzwei: Highly Threatened
