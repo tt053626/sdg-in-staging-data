@@ -11,7 +11,17 @@
       "schema": {
         "fields": [
           {
-            "name": "Group",
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "data.redlistcat",
             "type": "string",
             "constraints": {
               "enum": [
@@ -28,17 +38,7 @@
                 "Not Threatened"
               ]
             },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
+            "title": "Red List Categories"
           }
         ]
       }

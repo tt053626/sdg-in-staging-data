@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "data.redlistcat",
             "type": "string",
             "constraints": {
               "enum": [
@@ -33,7 +33,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Gefährdungskategorien"
           },
           {
             "name": "Value",

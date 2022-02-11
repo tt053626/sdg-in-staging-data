@@ -2025,7 +2025,7 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "data.redlistcat",
             "type": "string",
             "constraints": {
               "enum": [
