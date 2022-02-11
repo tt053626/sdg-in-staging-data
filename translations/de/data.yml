@@ -96,10 +96,21 @@ data.haushalte: Haushalte, Gewerbe, Handel und Dienstleistungen, übrige Verbrau
 
 #13-1-2
 #15-1-1
-
 data.antworten: Antworten
 data.ja: Ja
 data.nein: Nein
+
+#14-1-1
+data.rlnull: Ausgestorben oder verschollen
+data.rleins: Vom Aussterben bedroht
+data.rlzwei: Stark gefährdet
+data.rldrei: Gefährdet
+data.rlg: Gefährdung unbekannten Ausmaßes
+data.rlr: Extrem selten
+data.rlv: Vorwarnliste
+data.tlu: Ungefährdet
+data.rld: Daten unzureichend
+data.rle: Nicht bewertet
 
 #15-4-1
 data.area: Fläche
