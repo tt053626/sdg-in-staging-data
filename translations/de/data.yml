@@ -101,6 +101,7 @@ data.ja: Ja
 data.nein: Nein
 
 #14-1-1
+data.redlistcat: Gefährdungskategorien
 data.rlnull: Ausgestorben oder verschollen
 data.rleins: Vom Aussterben bedroht
 data.rlzwei: Stark gefährdet
