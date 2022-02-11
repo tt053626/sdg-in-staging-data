@@ -2205,8 +2205,16 @@
             "constraints": {
               "enum": [
                 "",
-                "A",
-                "B"
+                "Data Deficient",
+                "Threatened",
+                "Not Evaluated",
+                "Threatened with Extinction",
+                "Threat of Unknown Extent",
+                "Extinct or Lost",
+                "Extremely Rare",
+                "Near Threatened",
+                "Highly Threatened",
+                "Not Threatened"
               ]
             },
             "title": "Group"

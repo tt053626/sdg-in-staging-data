@@ -2209,8 +2209,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Ausgestorben oder verschollen",
+                "Vom Aussterben bedroht",
+                "Stark gefährdet",
+                "Gefährdet",
+                "Gefährdung unbekannten Ausmaßes",
+                "Extrem selten",
+                "Vorwarnliste",
+                "Ungefährdet",
+                "Daten unzureichend",
+                "Nicht bewertet",
                 ""
               ]
             },
