@@ -2393,18 +2393,6 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
