@@ -19,6 +19,29 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "data.partner",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Albinea",
+                "Cajamarca",
+                "East Norriton",
+                "Eskisehir",
+                "Izola",
+                "Köln",
+                "Mürzzuschlag",
+                "Odernheim",
+                "Olomouc",
+                "Subotica",
+                "Veszprem",
+                "Warszawa",
+                "Total"
+              ]
+            },
+            "title": "data.partner"
           }
         ]
       }

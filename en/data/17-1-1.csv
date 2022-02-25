@@ -1,4 +1,53 @@
-Year,Value
-2020,2
-2019,1
-2018,1
+Year,data.partner,Value
+2021,Albinea,2
+2021,Cajamarca,3
+2021,East Norriton,0
+2021,Eskisehir,2
+2021,Izola,0
+2021,Köln,1
+2021,Mürzzuschlag,0
+2021,Odernheim,0
+2021,Olomouc,0
+2021,Subotica,0
+2021,Veszprem,0
+2021,Warszawa,2
+2021,Total,10
+2020,Albinea,1
+2020,Cajamarca,2
+2020,East Norriton,0
+2020,Eskisehir,0
+2020,Izola,0
+2020,Köln,0
+2020,Mürzzuschlag,0
+2020,Odernheim,0
+2020,Olomouc,0
+2020,Subotica,0
+2020,Veszprem,0
+2020,Warszawa,0
+2020,Total,3
+2019,Albinea,3
+2019,Cajamarca,3
+2019,East Norriton,0
+2019,Eskisehir,4
+2019,Izola,0
+2019,Köln,0
+2019,Mürzzuschlag,0
+2019,Odernheim,1
+2019,Olomouc,0
+2019,Subotica,0
+2019,Veszprem,0
+2019,Warszawa,2
+2019,Total,13
+2018,Albinea,2
+2018,Cajamarca,2
+2018,East Norriton,0
+2018,Eskisehir,5
+2018,Izola,1
+2018,Köln,0
+2018,Mürzzuschlag,0
+2018,Odernheim,0
+2018,Olomouc,0
+2018,Subotica,4
+2018,Veszprem,0
+2018,Warszawa,3
+2018,Total,17
