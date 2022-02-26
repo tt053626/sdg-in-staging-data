@@ -1589,7 +1589,7 @@
           }
         ]
       },
-      "title": "Anzahl der Schulen in Treptow-Köpenick die pro Jahr an der Lernkonferenz teilnehmen"
+      "title": "Anzahl der Schulen die pro Jahr an Lernkonferenz teilnehmen"
     },
     {
       "path": "4-5-1/data.csv",
@@ -1709,7 +1709,7 @@
           }
         ]
       },
-      "title": "Anzahl der Schulen in die am Projekttag teilnehmen"
+      "title": "Anzahl der Schulen die am Projekttag teilnehmen"
     },
     {
       "path": "6-3-1/data.csv",
