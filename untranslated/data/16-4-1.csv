@@ -1,7 +1,21 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,data.bezirk,Value
+2021,Adlershof,18
+2021,Allende-Viertel,21
+2021,Altglienicke,25
+2021,Altstadt Köpenick,0
+2021,Alt-Treptow,0
+2021,Baumschulenweg,0
+2021,Bohnsdorf,0
+2021,Dammvorstadt,0
+2021,Friedrichshagen,0
+2021,Grünau,0
+2021,Johannisthal,0
+2021,Köllnische Vorstadt und Spindlersfeld,0
+2021,Köpenick Nord,0
+2021,Köpenick Süd,0
+2021,Müggelheim,0
+2021,Niederschöneweide,0
+2021,Oberschöneweide,0
+2021,Plänterwald,0
+2021,Rahnsdorf,0
+2021,Schmöckwitz,0

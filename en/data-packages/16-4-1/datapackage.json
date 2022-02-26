@@ -11,18 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "A",
-                "B"
-              ]
-            },
-            "title": "Group"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
@@ -31,6 +19,36 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "data.bezirk",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Adlershof",
+                "Allende-Viertel",
+                "Alt-Treptow",
+                "Altglienicke",
+                "Altstadt Köpenick",
+                "Baumschulenweg",
+                "Bohnsdorf",
+                "Dammvorstadt",
+                "Friedrichshagen",
+                "Grünau",
+                "Johannisthal",
+                "Köllnische Vorstadt und Spindlersfeld",
+                "Köpenick Nord",
+                "Köpenick Süd",
+                "Müggelheim",
+                "Niederschöneweide",
+                "Oberschöneweide",
+                "Plänterwald",
+                "Rahnsdorf",
+                "Schmöckwitz"
+              ]
+            },
+            "title": "data.bezirk"
           }
         ]
       }
