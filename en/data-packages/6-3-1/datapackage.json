@@ -11,11 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          },
-          {
             "name": "Year",
             "type": "string",
             "title": "Year"
@@ -25,14 +20,19 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Excellent",
-                "Sufficient",
                 "Good",
-                "Poor"
+                "Sufficient",
+                "Poor",
+                ""
               ]
             },
             "title": "Category"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
           }
         ]
       }

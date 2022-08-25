@@ -11,11 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          },
-          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -25,20 +20,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Ableism",
-                "Anti-Semitism",
-                "Political opponents",
-                "LGBTIQ* hostility",
-                "Racism",
-                "Right-wing and extreme right-wing self-portrayal",
-                "Social-chauvinism",
                 "Total",
+                "Campaign",
+                "Ableism",
+                "Social-chauvinism",
+                "LGBTIQ* hostility",
+                "Anti-Semitism",
+                "Right-wing and extreme right-wing self-portrayal",
+                "Political opponents",
                 "NS trivialization and glorification",
-                "Campaign"
+                "Racism",
+                ""
               ]
             },
             "title": "Type of incident"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
           }
         ]
       }

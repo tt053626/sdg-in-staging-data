@@ -11,11 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -25,14 +20,19 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Manufacturing sector",
-                "Households, business, trade and services, other consumers",
                 "Total",
-                "Transportation"
+                "Manufacturing sector",
+                "Transportation",
+                "Households, business, trade and services, other consumers",
+                ""
               ]
             },
             "title": "Emitting sectors"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
           }
         ]
       }

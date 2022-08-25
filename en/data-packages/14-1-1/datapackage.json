@@ -11,11 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          },
-          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -25,20 +20,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Data Deficient",
-                "Threatened",
-                "Not Evaluated",
-                "Threatened with Extinction",
-                "Threat of Unknown Extent",
                 "Extinct or Lost",
+                "Threatened with Extinction",
+                "Highly Threatened",
+                "Threatened",
+                "Threat of Unknown Extent",
                 "Extremely Rare",
                 "Near Threatened",
-                "Highly Threatened",
-                "Not Threatened"
+                "Not Threatened",
+                "Data Deficient",
+                "Not Evaluated",
+                ""
               ]
             },
             "title": "Red List Categories"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
           }
         ]
       }
