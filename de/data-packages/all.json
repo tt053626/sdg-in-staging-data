@@ -15,7 +15,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "data.gruen",
@@ -54,7 +54,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Value",
@@ -78,7 +78,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Group",
@@ -114,7 +114,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Group",
@@ -150,7 +150,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "data.sex",
@@ -187,7 +187,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Value",
@@ -211,7 +211,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Group",
@@ -247,7 +247,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "data.area",
@@ -284,7 +284,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "data.pow",
@@ -323,7 +323,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Value",
@@ -347,7 +347,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Value",
@@ -371,7 +371,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Value",
@@ -395,7 +395,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Value",
@@ -419,7 +419,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Group",
@@ -455,7 +455,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Value",
@@ -479,7 +479,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "data.esek",
@@ -517,7 +517,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Group",
@@ -553,7 +553,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Value",
@@ -577,7 +577,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Value",
@@ -601,7 +601,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Value",
@@ -625,7 +625,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Value",
@@ -649,7 +649,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Value",
@@ -673,7 +673,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Group",
@@ -709,7 +709,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "data.standort",
@@ -746,7 +746,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Value",
@@ -770,7 +770,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Region",
@@ -806,7 +806,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Value",
@@ -830,7 +830,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "data.sex",
@@ -867,7 +867,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "data.zustand",
@@ -903,7 +903,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "data.partner",
@@ -950,7 +950,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Value",
@@ -974,7 +974,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Value",
@@ -998,7 +998,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "data.antworten",
@@ -1034,7 +1034,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Group",
@@ -1070,7 +1070,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Value",
@@ -1094,7 +1094,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Value",
@@ -1118,7 +1118,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "fLotte",
@@ -1155,7 +1155,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Group",
@@ -1191,7 +1191,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Status",
@@ -1227,7 +1227,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "data.redlistcat",
@@ -1271,7 +1271,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Value",
@@ -1295,7 +1295,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Value",
@@ -1319,7 +1319,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "data.bezirk",
@@ -1373,7 +1373,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Group",
@@ -1409,7 +1409,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Value",
@@ -1433,7 +1433,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Value",
@@ -1457,7 +1457,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Value",
@@ -1481,7 +1481,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "data.incident",
@@ -1525,7 +1525,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "data.availability",
@@ -1566,7 +1566,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Value",
@@ -1590,7 +1590,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Value",
@@ -1614,7 +1614,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Value",
@@ -1638,7 +1638,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Value",
@@ -1662,7 +1662,7 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "data.kat",
@@ -1700,7 +1700,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Value",
@@ -1724,7 +1724,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Value",
@@ -1748,7 +1748,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Value",
@@ -1772,7 +1772,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "data.antworten",
@@ -1808,7 +1808,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Group",
@@ -1844,7 +1844,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Value",
@@ -1868,7 +1868,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "data.noise",
@@ -1906,7 +1906,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "data.group",
@@ -1943,7 +1943,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "data.einewelt",
@@ -1982,7 +1982,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "fLotte",
@@ -2019,7 +2019,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Value",
@@ -2043,7 +2043,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Ortsteil",
@@ -2108,7 +2108,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Value",
@@ -2132,7 +2132,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "data.luftg",
@@ -2169,7 +2169,7 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Value",
@@ -2193,7 +2193,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Value",
@@ -2217,7 +2217,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Group",
@@ -2253,7 +2253,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "data.air",
@@ -2290,7 +2290,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "data.area",
@@ -2328,7 +2328,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Group",
@@ -2364,7 +2364,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Value",
@@ -2388,7 +2388,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Status",
@@ -2425,7 +2425,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Value",
@@ -2449,7 +2449,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Value",
@@ -2473,7 +2473,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Value",
@@ -2497,7 +2497,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Value",
@@ -2521,7 +2521,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "data.maintransport",
@@ -2572,7 +2572,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Group",
@@ -2608,7 +2608,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Group",
@@ -2644,7 +2644,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Group",
@@ -2680,7 +2680,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Ortsteil",
@@ -2745,7 +2745,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "data.zug",
@@ -2781,7 +2781,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Value",
