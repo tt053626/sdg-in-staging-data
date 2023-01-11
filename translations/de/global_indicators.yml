@@ -1,89 +1,67 @@
-1-1-1-title: Anzahl der Personen die das Sozialhilfeportal nutzen
-1-2-1-title: Anzahl der Repaircafes, Gemeinschaftswerkstätten und ReUse Shops in Treptow-Köpenick
-1-3-1-title: Armutsgefährdungsquote in Treptow-Köpenick
-2-1-1-title: Öffentlich zugängliche Obstbäume und Beete
-2-2-1-title: Fair zertifizierte Lebensmittel in der Berliner Schulverpflegung
-2-3-1-title: Kilogramm gerettete Lebensmittel (Foodsharing)
-3-1-1-title: Stadtradeln - Anzahl der Personen die teilnehmen
-3-1-2-title: Stadtradeln - Mit Fahrrad gefahrene Kilometer
-3-1-3-title: Stadtradeln - Kilogramm CO2 eingespart
-3-2-1-title: Relative Lärmbelastung in Treptow-Köpenick (Umweltgerechtigkeit)
-3-3-1-title: Relative Luftbelastung in Treptow-Köpenick (Umweltgerechtigkeit)
-3-3-2-title: Grenzwertüberschreitungen Luftverschmutzung in Treptow-Köpenick
-4-1-1-title: Anzahl der Schulen in Treptow-Köpenick die pro Jahr an der Lernkonferenz teilnehmen
-4-2-1-title: Anzahl angebotener Fortbildungen zu 'Bildung für nachhaltige Entwicklung' (BNE) für das pädagogische Personal an Schulen in Treptow-Köpenick
-4-3-1-title: Anzahl der Volkshochschul (VHS) Kurse zum Themenbereich Globales lernen, 'Bildung für nachhaltige Entwicklung' (BNE) und SDGs
-4-4-1-title: Noch zu definieren
-4-5-1-title: Projektteilnehmer des Projektes "Umweltschule in Europa - Internationale Nachhaltigkeitsschule"
-5-1-1-title: Anzahl der Schulen in die am Projekttag teilnehmen
-5-2-1-title: Anzahl der angebotenen Schulungen des Bezirksamts zum gendersensiblen Sprachgebrauch
-5-3-1-title: Anzahl der Projekte, Anlaufpunkte und Beratungsangebote für Mädchen und junge Frauen in Treptow-Köpenick
-5-4-1-title: Frauenanteil in den Leitungspositionen des höheren Dienstes
-5-5-1-title: Frauenanteil in der Bezirksverordnetenversammlung (BVV) Treptow-Köpenicks
-6-1-1-title: Saprobie (organische Belastung) und Trophie (Nährstoffbelastung) des Müggelsee
-6-2-1-title: Anzahl außerschulischer Einrichtungen der Natur- und Umweltbildung / Bildung für Nachhaltige Entwicklung (BNE)
-6-2-2-title: Anzahl der Bildungsangebote des Netzwerks / der Koordinierungsstelle Umweltbildung und Bildung für nachhaltige Entwicklung (BNE)
-6-3-1-title: Badegewässerqualität der Badestellen innerhalb des Bezirks Treptow-Köpenick
-7-1-1-title: Noch zu definieren
-7-2-1-title: Anzahl der Photovoltaikanlagen auf bezirkseigenen Gebäuden
-7-2-2-title: Stromerzeugung auf bezirkseigenen Gebäuden (kWh/Jahr)
-7-3-1-title: Photovoltaik - Summe der Anlagen im Bezirk 
-7-3-2-title: Photovoltaik - Stromeinspeisung im Bezirk
-7-3-3-title: Solarthermie - Summe der Anlagen im Bezirk
-8-1-1-title: Anzahl der Unternehmen in Treptow-Köpenick die über ein gültiges Testat einer Gemeinwohl-Bilanz verfügen
-8-2-1-title: Anzahl der Teilnehmenden am Mentoringprogramm
-8-2-2-title: Anteil der Bewerber*innen mit Einwanderungsgeschichte
-8-3-1-title: Anteil der Beschäftigten mit Einwanderungsgeschichte
-8-3-2-title: Anteil der Beschäftigten mit Einwanderungsgeschichte in Führungspositionen der Kommunalverwaltung
-8-4-1-title: Anzahl der kommunalen Einrichtungen in Treptow-Köpenick die über ein gültiges Testat einer Gemeinwohl-Bilanz verfügen
-8-5-1-title: Bruttostundenverdienste und Verdienstunterschiede zwischen Frauen und Männern (Gender Pay Gap unbereinigt)
-9-1-1-title: Anzahl der Ladestationen für E-Autos
-9-1-2-title: Stromverbrauch an Elektro-Ladesäulen
-9-2-1-title: Anzahl öffentlicher Einrichtungen mit freiem WLAN Zugang
-9-3-1-title: Breitband Verfügbarkeit Mbit/s in %
-10-1-1-title: Anteil mehrsprachiger Informationsmaterialien
-10-2-1-title: Anzahl der angebotenen Fortbildungen innerhalb der Verwaltung
-10-3-1-title: Anzahl der Unternehmen in Treptow-Köpenick die eine Gemeinwohl-Bilanz durchführen
-10-4-1-title: Gini-Koeffizient der Äquivalenzeinkommen in Treptow-Köpenick
-11-1-1-title: Anzahl der kostenlos ausleihbaren Lastenräder im Bezirk
-11-1-2-title: Anzahl der Ausleihen von Lastenrädern
-11-2-1-title: Anzahl der Abholstellen für Produkte Solidarischer Landwirtschaft (SoLaWi) 
-11-2-2-title: Anzahl der Imker im Bezirk
-11-2-3-title: Anzahl der Bienenvölker im Bezirk
-11-3-1-title: Anzahl Baumscheibenpatinnen und -paten
-11-3-2-title: Finanzierungen für Projekte aus Kiezkassen 
-11-4-1-title: Häufigkeit der auf Wegen genutzten Verkehrsmittel in Treptow-Köpenick
-11-5-1-title: Sport-, Freizeit- und Erholungsfläche in Treptow-Köpenick 
-11-5-2-title: Versorgung mit öffentlichen Grünflächen insgesamt
-12-1-1-title: Anzahl der Fortbildungen zu nachhaltiger und fairer Beschaffung pro Jahr
-12-2-1-title: Anzahl der Kirchengemeinden die Teil der Fairtrade Town Kampagne sind
-12-2-2-title: Anzahl der Kirchengemeinden mit dem Siegel "Faire Gemeinde" im Bezirk
-12-3-1-title: Stand der Zertifizierung der Kommune als Fairtrade Town
-12-4-1-title: Anzahl der Fairtrade Schulen in Treptow-Köpenick
-13-1-1-title: Stellenanteile für das Klimaschutzmanagement
-13-1-2-title: Index Kommunaler Klimaschutz
-13-2-1-title: Mittlere werktägliche Fahrradverkehrsstärke an der Zählstelle Treptow-Köpenick Kaisersteg
-13-2-2-title: Anzahl der kostenlos ausleihbaren Lastenräder im Bezirk
-13-2-3-title: Kilometer Radschnellwege im Bezirk
-13-3-1-title: CO2-Emissionen aus dem Endenergieverbrauch (Verursacherbilanz)
-14-1-1-title: Rote Liste Einstufung der in Berliner Gewässern vorkommenden Fischarten
-14-2-1-title: Anzahl der Anwohnerinnen die an der Sprechstunde der Ranger teilnehmen
-14-3-1-title: Noch zu definieren
-15-1-1-title: Index Kommunale Klimaanpassung
-15-2-1-title: Anzahl der Teilnahmen des Bezirks an Netzwerktreffen und Veranstaltungen des „Akteursnetzwerk biologische Vielfalt“ pro Jahr
-15-3-1-title: Naturschutzgebiete und Landschaftsschutzgebiete (Fläche in ha)
-15-4-1-title: Noch zu definieren
-16-1-1-title: Anzahl der partizipativen Veranstaltungen zum Thema SDGs des Bezirksamts Treptow-Köpenick pro Jahr
-16-2-1-title: Anzahl der interreligiösen Veranstaltungen pro Jahr
-16-3-1-title: Anzahl der rassistisch, antisemitisch, homophob und rechtsextrem geprägter Vorfälle pro Jahr in Treptow-Köpenick
-16-4-1-title: Anzahl der Strukturen der Bürgerbeteiligung und Akteursvernetzung in den Bezirksregionenprofilen
-17-1-1-title: Anzahl der Aktivitäten mit Partnerstädten und Veranstaltungen zum Thema Städtepartnerschaften des Bezirksamts Treptow-Köpenick pro Jahr
-17-2-1-title: Menge verkaufter Packungen Fairtrade Kaffee 'Treptow-Köpenicker Bohne' pro Jahr
-17-3-1-title: Städtepartnerschaften
-17-3-2-title: Gemeindeprojekte und -partnerschaften
-17-3-3-title: Schulpartnerschaften
-17-3-4-title: Weitere zivilgesellschaftliche Projekte
-17-3-5-title: Fairer Handel
-17-4-1-title: Eine-Welt-Projekte und Partnerschaften im Bezirk Treptow-Köpenick
-17-5-1-title: Noch zu definieren
-17-6-1-title: Öffentliche Ausgaben für Entwicklungszusammenarbeit (Official Development Assistance, ODA) 
+3-1-title: Vorzeitige Sterblickeit (unter 70 Jahre, Todesfälle)
+3-2-title: Wohnungsnahe Grundversorgung - Krankenhaus (Krankenhausbetten je 100.000 Einwohner:innen)
+3-3-title: Immission von Luftschadstoffen (µg / m³)
+
+4-1-title: Betreuung von Kindern in öff. KiTa (unter 3-Jährige / in %)
+4-2-title: Personal in öffentlich geförderter Kindertagespflege # auch in %
+4-3-title: Schulabbrecherquote* (in % / ohne Mittelschulabschluss)
+
+5-1-title: Empfänger/innen von Grundsicherung nach SGB II insgesamt
+5-2-title: Kinder unter 15 J. in Grundsicherung (SGB II) # auch in %
+5-3-title: Empfänger/innen von Grundsicherung im Alter
+5-4-title: sv-Beschäftigungsquote (in % (15-65 J)) # Frauen und Männer
+5-5-title: Verdienstabstand zwischen Frauen und Männern (Medianeinkommen-Abstand in Euro (Vollzeit))
+5-6-title: Frauenanteil im Stadtrat, Gemeinderat bzw. Kreistag (in %)
+
+7-1-title: Strom aus Windkraft* (Watt je Einwohner:in)
+
+8-1-title: Bruttoinlandsprodukt (€ je Einwohner/in)
+8-2-title: Langzeitarbeitslosenquote (Prozentualer Anteil, der länger als 1 Jahr arbeitslos ist)
+8-3-title: Beschäftigungsquote (15- bis 64-Jährige / in %)
+8-4-title: sv-Beschäftigte (55 Jahre und älter)
+8-5-title: Aufstocker (Anteil der erwerbstätigen ALG-II Bezieher an allen erwerbsfähigen Leistungsbeziehern)
+
+9-1-title: sv-Beschäftigte mit Hochschulabschluss (Arbeitsort, im Juni)
+9-2-title: Existenzgründungen* (je 1.000 Einwohner:innen)
+9-3-title: Breitbandversorgung - private Haushalte
+
+10-1-title: Beschäftigungsquote - Ausländer (in %) # plus: im Verhältnis zur Schulabbrecherquote in der Gesamtbevölkerung
+10-2-title: Einbürgerungen im Jahr* (absolut)
+
+11-1-title: Naherholungsflächen (mit Wald) in Hektar je 1000 Einwohner/-innen
+11-2-title: Flächeninanspruchnahme (in %)
+11-3-title: Flächenneuinanspruchnahme (in %)
+11-4-title: Flächennutzungsintensität (m² je Einwohner/-in)
+11-5-title: Mietpreise (ohne geförderten Wohnungsbau) (Durchschnittliche Nettokaltmiete / € je m²)
+11-6-title: Wohnfläche je Einwohner (in m²)
+11-7-title: ÖPNV* (Nahversorgung mit Haltestellen)
+11-8-title: PKW-Dichte* (Anzahl der PKW je 1.000 Einwohner:innen)
+11-9-title: Beteigte an Unfällen mit Personenschaden
+11-10-title: Fertiggestellte Wohngebäude mit erneuerbarer Heizenergie bzw. Fernwärme (in %)
+
+12-1-title: Abfallmenge (private Haushalte)* (Tonne je Einwohner:in)
+12-2-title: Fairtrade-Town* (Anzahl der Zertifizierungen)
+12-3-title: Trinkwasserverbrauch - private Haushalte (Liter je Einwohner:in und Tag)
+12-4-title: Fairtrade-Schools (Anzahl der Schulen mit Zertifizierung)
+
+14-1-title: Fließwasserqualität in % (Ökologisches Potenzial von x% der Fließgewässer in der Kommune ist mind. "gut" bewertet)
+
+16-1-title: Straftaten (polizeilich gemeldet)* (je 1.000 Einwohner:innen)
+16-2-title: Finanzmittelsaldo (€ je Einwohner:in)
+16-3-title: Steuereinnahmen (€ je Einwohner:in)
+16-4-title: Liquiditätskredite (€ je Einwohner:in)
+
+
+## Indikatoren, die zu keinen SDGs zugeordnet sind!!
+## ohne Handlungsfeld >>
+# Kinder in öff. Tageseinrichtungen (unter 3-Jährige / absolut)
+
+## Handlungsfeld: Demographie >>
+# Einwohner Hauptwohnsitze
+# unter 3 Jahre
+# 3 bis unter 15 Jahre
+# 15 - unter 65 Jahre
+# 65 Jahre und älter
+# Geburten (Wohnort IN)
+# Sterbefälle (Wohnort IN)
+
